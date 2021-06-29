@@ -134,7 +134,6 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 3.18)
-  jekyll
   jekyll-eltako!
   jekyll-feed
   jekyll-readme-index

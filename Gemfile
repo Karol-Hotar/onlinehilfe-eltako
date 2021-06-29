@@ -4,7 +4,6 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "jekyll"
 
 group :test do
   gem "html-proofer", "~> 3.18"
@@ -15,7 +14,6 @@ end
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo"
   gem "tzinfo-data"
-  gem 'jekyll'
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
@@ -29,6 +27,3 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "webrick", "~> 1.7"
 
 gem "livereload", "~> 1.6"
-
-
-
