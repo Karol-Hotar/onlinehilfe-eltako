@@ -3,6 +3,7 @@
 # Import the theme
 theme: jekyll-eltako
 
+encoding: UTF-8
 
 baseurl: ''
 
