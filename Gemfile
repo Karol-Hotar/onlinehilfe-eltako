@@ -28,8 +28,3 @@ gem "webrick", "~> 1.7"
 
 gem "livereload", "~> 1.6"
 
-gem "jekyll"
-
-gem "github-pages"
-
-gem "sprockets", "~> 3.7"
