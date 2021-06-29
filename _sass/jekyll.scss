@@ -14,3 +14,23 @@
   "layout/archives",
   "layout/categories",
   "layout/category-tag";
+
+
+
+
+
+// Customs
+#page {
+  .card {
+    border-radius: 0 !important;
+  }
+  // Icon Card hover
+  .category-trigger {
+    i {
+      &:hover {
+        color: #0262af;
+      }
+    }
+  }
+  // Tags
+}
