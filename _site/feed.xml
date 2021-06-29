@@ -4,7 +4,7 @@
   <id>/</id>
   <title>ONLINE HILFE</title>
   <subtitle>Eltako GmbH Online Hilfe</subtitle>
-  <updated>2021-06-29T12:53:51+02:00</updated>
+  <updated>2021-06-29T13:02:22+02:00</updated>
   <author>
     <name>Eltako GmbH</name>
     <uri>/</uri>
@@ -17,48 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title></title>
-    <link href="/posts/2021-06-29-alarm/" rel="alternate" type="text/html" title="" />
-    <published>2021-06-29T12:53:51+02:00</published>
-  
-    <updated>2021-06-29T12:53:51+02:00</updated>
-  
-    <id>/posts/2021-06-29-alarm/</id>
-    <content src="/posts/2021-06-29-alarm/" />
-    <author>
-      <name>Eltako GmbH</name>
-    </author>
-
-  
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Alarmtask: erstellen, aktivieren und deaktivieren
-
-1. Allgemeines
-
-IQONTROL NEO ist mit einem Alarm-Feature ausgestattet, das die
-Sicherheit Ihres zu Hause erhöht. Es kann sehr einfach konfiguriert und
-genutzt werden, und zwar zu Hause im eigenen Netzwerk oder auch im
-Remotemodus (von der Ferne). Die Auslöser und Aktionen des Alarms lassen
-sich individuell zusammenstellen.
-
-Grundsätzlich ist zu...
-    </summary>
-  
-
-  </entry>
 
   
   <entry>
@@ -224,6 +182,59 @@ Die 10 als Kacheln angelegten Kategorien auf der Startseite sind:
 
   Räume: Anzeige der Geräte nach Räumen
   Geräte: An...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Start</title>
+    <link href="/posts/start/" rel="alternate" type="text/html" title="Start" />
+    <published>2021-06-29T00:00:00+02:00</published>
+  
+    <updated>2021-06-29T00:00:00+02:00</updated>
+  
+    <id>/posts/start/</id>
+    <content src="/posts/start/" />
+    <author>
+      <name>Eltako GmbH</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      BEDIENUNGSANLEITUNG IQONTROL NEO
+
+Inhaltsverzeichnis
+
+&amp;lt;!– index_start –&amp;gt;
+
+
+  Erste Schritte: Allgemeines &amp;amp; Account
+    
+      Das AIO GATEWAY integrieren
+      Die Bedienoberfläche: IQONTROL NEO
+Startseite
+      Was finde ich wo? - Das Hauptmenü
+      Ein Firmware-Update machen
+    
+  
+  Räume und Geräte anlegen
+    
+      Kameras integrieren
+      Cloud-Geräte anlegen
+      
+        ...
     </summary>
   
 

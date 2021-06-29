@@ -1,21 +1,6 @@
 [
   
   {
-    "title": "",
-    "url": "/posts/2021-06-29-alarm/",
-    "categories": "",
-    "tags": "",
-    "date": "2021-06-29 12:53:51 +0200",
-    
-
-
-
-
-
-    "snippet": "Alarmtask: erstellen, aktivieren und deaktivieren1. AllgemeinesIQONTROL NEO ist mit einem Alarm-Feature ausgestattet, das dieSicherheit Ihres zu Hause erhöht. Es kann sehr einfach konfiguriert undgenutzt werden, und zwar zu Hause im eigenen Netzwerk oder auch imRemotemodus (von der Ferne). Die Au..."
-  },
-  
-  {
     "title": "Tasks",
     "url": "/posts/tasks/",
     "categories": "",
@@ -736,6 +721,21 @@
   },
   
   {
+    "title": "Alarmtask - erstellen, aktivieren und deaktivieren",
+    "url": "/posts/alarm/",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
+    "date": "2021-06-29 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Alarmtask: erstellen, aktivieren und deaktivieren1. AllgemeinesIQONTROL NEO ist mit einem Alarm-Feature ausgestattet, das dieSicherheit Ihres zu Hause erhöht. Es kann sehr einfach konfiguriert undgenutzt werden, und zwar zu Hause im eigenen Netzwerk oder auch imRemotemodus (von der Ferne). Die Au..."
+  },
+  
+  {
     "title": "Account",
     "url": "/posts/account/",
     "categories": "MiniSafe2, Account",
@@ -763,6 +763,51 @@
 
 
     "snippet": "Den Homematic IP Access Point und Homematic IP Geräte integrierenDen Access Point anbinden1. Zunächst müssen Sie den Access Point über die Cloud verbinden. Imersten Schritt, müssen Sie dafür die Cloud-Anbindung lizensieren. Diesgeschieht über einen Freischaltcode für die mediola Cloud Services. D..."
+  },
+  
+  {
+    "title": "Inbetriebnahme der V6-Serie",
+    "url": "/posts/inbetriebnahme/",
+    "categories": "AIO V6 Gateway",
+    "tags": "AIO V6 Gateway",
+    "date": "2021-06-29 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Inbetriebnahme der V6-SerieVoraussetzungen  AIO GATEWAY V6, V6 E, V6 mini oder V6 mini E  AIO CREATOR NEO 2.6.2 oder höher  ConfigTool NEO 1.9.0 oder höherDie aktuelle Version des Gateway ConfigTool NEO kann untermediola.comfür macOS, Windows und Linux heruntergeladen werden.Auf der Startseite de..."
+  },
+  
+  {
+    "title": "Firmware Update",
+    "url": "/posts/firmwareupdate/",
+    "categories": "AIO V6 Gateway",
+    "tags": "AIO V6 Gateway",
+    "date": "2021-06-29 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Firmware UpdateUm die Firmware eines AIO GATEWAY der V6-Serie zu aktualisieren, wähleSie im ConfigTool NEO den Tab “Allgemein” aus.Steht ein Firmware-Update zur Verfügung erscheint im ConfigTool NEO eineentsprechende Benachrichtigung.Mit einem Klick auf “Aktualisierung installieren” wird das Upda..."
+  },
+  
+  {
+    "title": "Cloudzugriff einrichten",
+    "url": "/posts/cloudzugriff/",
+    "categories": "AIO V6 Gateway",
+    "tags": "AIO V6 Gateway",
+    "date": "2021-06-29 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Cloudzugriff einrichtenUm den Cloudzugriff eines AIO GATEWAYs der V6-Serie einzurichten, öffnenSie im ConfigTool NEO den Tab „Cloudzugriff“.Hinweis: Damit der Cloudzugriff funktioniert, muss ein Passwortgesetzt sein. Siehe dazu Passwort anlegen.Setzen Sie das Häkchen bei “Cloud” und klicken Sie a..."
   }
   
 ]
