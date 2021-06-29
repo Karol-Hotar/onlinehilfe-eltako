@@ -4,7 +4,7 @@
   <id>/</id>
   <title>ONLINE HILFE</title>
   <subtitle>Eltako GmbH Online Hilfe</subtitle>
-  <updated>2021-06-29T12:47:51+02:00</updated>
+  <updated>2021-06-29T12:50:01+02:00</updated>
   <author>
     <name>Eltako GmbH</name>
     <uri>/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title></title>
     <link href="/posts/2021-06-29-alarm/" rel="alternate" type="text/html" title="" />
-    <published>2021-06-29T12:47:51+02:00</published>
+    <published>2021-06-29T12:50:01+02:00</published>
   
-    <updated>2021-06-29T12:47:51+02:00</updated>
+    <updated>2021-06-29T12:50:01+02:00</updated>
   
     <id>/posts/2021-06-29-alarm/</id>
     <content src="/posts/2021-06-29-alarm/" />
