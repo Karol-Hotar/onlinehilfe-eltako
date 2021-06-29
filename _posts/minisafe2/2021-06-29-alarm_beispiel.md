@@ -1,3 +1,15 @@
+---
+title: Anwendungsbeispiel
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
 #### Anwendungsbeispiel
 
 Eine dreiköpfige Familie nutzt den Alarm als Einbruchsschutz ihres

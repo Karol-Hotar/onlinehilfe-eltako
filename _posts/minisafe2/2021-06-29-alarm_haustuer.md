@@ -1,3 +1,15 @@
+---
+title:  Haustür
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
 #### Haustür
 
 Ein als Auslöser gespeicherter Sensor kann als Haustür mit

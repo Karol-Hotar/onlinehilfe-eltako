@@ -1,3 +1,14 @@
+---
+title: Cloudaktivierung
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
 #### Cloudaktivierung
 
 Per Default ist die Aktivierung/Deaktivierung aus Sicherheitsgründen

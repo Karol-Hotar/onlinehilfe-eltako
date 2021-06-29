@@ -1,3 +1,16 @@
+---
+title:  Hüll- und Vollschutz
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
+
 #### Hüll- und Vollschutz
 
 Der Alarm wird in Hüll- und Vollschutz unterteilt.

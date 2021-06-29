@@ -1,3 +1,15 @@
+---
+title:  Alarm zurücksetzen
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
 #### Alarm zurücksetzen
 
 Muss der Alarm einmal zurückgesetzt werden, kann dies in den

@@ -1,3 +1,14 @@
+---
+title:  Allgemeine Infos
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
 #### Allgemeine Infos
 
 Leider ist es nicht möglich, Einstellungen des alten Alarms auf den

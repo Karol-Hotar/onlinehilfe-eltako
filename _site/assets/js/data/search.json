@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "",
+    "url": "/posts/2021-06-29-alarm/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 12:47:51 +0200",
+    
+
+
+
+
+
+    "snippet": "Alarmtask: erstellen, aktivieren und deaktivieren1. AllgemeinesIQONTROL NEO ist mit einem Alarm-Feature ausgestattet, das dieSicherheit Ihres zu Hause erhöht. Es kann sehr einfach konfiguriert undgenutzt werden, und zwar zu Hause im eigenen Netzwerk oder auch imRemotemodus (von der Ferne). Die Au..."
+  },
+  
+  {
     "title": "Tasks",
     "url": "/posts/tasks/",
     "categories": "",
@@ -481,10 +496,10 @@
   },
   
   {
-    "title": "Changelog",
+    "title": "IQONTROL NEO Changelog",
     "url": "/posts/changelog/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Changelog",
+    "tags": "Changelog",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -496,10 +511,10 @@
   },
   
   {
-    "title": "Alarm_status",
+    "title": "Alarm Status",
     "url": "/posts/alarm_status/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -511,10 +526,10 @@
   },
   
   {
-    "title": "Alarm_scenario",
+    "title": "Alarm",
     "url": "/posts/alarm_scenario/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -526,10 +541,10 @@
   },
   
   {
-    "title": "Alarm_reset",
+    "title": "Alarm zurücksetzen",
     "url": "/posts/alarm_reset/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -541,10 +556,10 @@
   },
   
   {
-    "title": "Alarm_pin",
+    "title": "Um den Alarm zu Aktivieren/Deaktivieren wird eine PIN benötigt.",
     "url": "/posts/alarm_pin/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -556,10 +571,10 @@
   },
   
   {
-    "title": "Alarm_nachrichten",
+    "title": "Alarm Nachrichten",
     "url": "/posts/alarm_nachrichten/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -571,10 +586,10 @@
   },
   
   {
-    "title": "Alarm_migrieren",
+    "title": "Allgemeine Infos",
     "url": "/posts/alarm_migrieren/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -586,10 +601,10 @@
   },
   
   {
-    "title": "Alarm_konfigurieren",
+    "title": "Alarm konfigurieren",
     "url": "/posts/alarm_konfigurieren/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -601,10 +616,10 @@
   },
   
   {
-    "title": "Alarm_keys",
+    "title": "Alarm Keys",
     "url": "/posts/alarm_keys/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -616,10 +631,10 @@
   },
   
   {
-    "title": "Alarm_huellschutz_vollschutz",
+    "title": "Hüll- und Vollschutz",
     "url": "/posts/alarm_huellschutz_vollschutz/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -631,10 +646,10 @@
   },
   
   {
-    "title": "Alarm_haustuer",
+    "title": "Haustür",
     "url": "/posts/alarm_haustuer/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -646,10 +661,10 @@
   },
   
   {
-    "title": "Alarm_cloudaktivierung",
+    "title": "Cloudaktivierung",
     "url": "/posts/alarm_cloudaktivierung/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -672,14 +687,14 @@
 
 
 
-    "snippet": "Akustische BestätigungEs gibt drei Arten von akustischen Bestätigungen, die vom Systemausgegeben werden können.  Ton bei Aktivierung  Ton bei Deaktivierung  Ton bei Fehler (Alarmzustand wurde nicht geändert)Als akustische Signalgeber können derzeit nur die Homematic IP SireneHmIP-ASIR oder ein So..."
+    "snippet": "title: Akustische Bestätigungauthor: Eltako Gmbhcategories: [MiniSafe2, Alarm]tags: [Alarm]math: truemermaid: trueimage:src:—Akustische BestätigungEs gibt drei Arten von akustischen Bestätigungen, die vom Systemausgegeben werden können.  Ton bei Aktivierung  Ton bei Deaktivierung  Ton bei Fehler ..."
   },
   
   {
-    "title": "Alarm_beispiel",
+    "title": "Anwendungsbeispiel",
     "url": "/posts/alarm_beispiel/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -691,10 +706,10 @@
   },
   
   {
-    "title": "Alarm_aktivierungsverzoegerung",
+    "title": "Aktivierungsverzögerung",
     "url": "/posts/alarm_aktivierungsverzoegerung/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -706,10 +721,10 @@
   },
   
   {
-    "title": "Alarm_aktivierung",
+    "title": "Alarm Aktivieren/Deaktivieren",
     "url": "/posts/alarm_aktivierung/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2, Alarm",
+    "tags": "Alarm",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -718,21 +733,6 @@
 
 
     "snippet": "Alarm Aktivieren/DeaktivierenWurde der Alarm eingestellt, kann dieser über das Pin-Pad oder über dieangelegten Alarm Keys aktiviert/deaktiviert werden.AlarmzuständeDer aktuelle Zustand des Alarms wird auf dem Dashboard dargestellt:Alarm deaktiviert:Vollschutz aktiviert:Hüllschutz aktiviert:Zum Ak..."
-  },
-  
-  {
-    "title": "Alarm",
-    "url": "/posts/alarm/",
-    "categories": "",
-    "tags": "",
-    "date": "2021-06-29 00:00:00 +0200",
-    
-
-
-
-
-
-    "snippet": "Alarmtask: erstellen, aktivieren und deaktivieren1. AllgemeinesIQONTROL NEO ist mit einem Alarm-Feature ausgestattet, das dieSicherheit Ihres zu Hause erhöht. Es kann sehr einfach konfiguriert undgenutzt werden, und zwar zu Hause im eigenen Netzwerk oder auch imRemotemodus (von der Ferne). Die Au..."
   },
   
   {

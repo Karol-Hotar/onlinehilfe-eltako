@@ -1,3 +1,15 @@
+---
+title: IQONTROL NEO Changelog
+author: Eltako Gmbh
+categories: [MiniSafe2, Changelog]
+tags: [Changelog]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
 ## IQONTROL NEO Changelog
 
 ### Version 1.20 Bugfix Release

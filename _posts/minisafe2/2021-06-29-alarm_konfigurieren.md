@@ -1,3 +1,15 @@
+---
+title:  Alarm konfigurieren
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
 #### Alarm konfigurieren
 
 Voll- und Hüllschutz werden getrennt voneinander konfiguriert und es

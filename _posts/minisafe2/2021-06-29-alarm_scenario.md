@@ -1,3 +1,14 @@
+---
+title:  Alarm
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
 #### Alarm
 
 Der [alte](/de/iqontrol_neo/alarm) Alarmtask wurde durch ein neues,

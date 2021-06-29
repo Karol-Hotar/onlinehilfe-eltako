@@ -8,6 +8,23 @@
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_aktivierung.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_aktivierung.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_aktivierungsverzoegerung.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_aktivierungsverzoegerung.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_beispiel.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_beispiel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_bestaetigung.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_bestaetigung.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_cloudaktivierung.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_cloudaktivierung.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_haustuer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_haustuer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_huellschutz_vollschutz.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_huellschutz_vollschutz.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_keys.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_keys.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_konfigurieren.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_konfigurieren.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_migrieren.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_migrieren.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_nachrichten.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_nachrichten.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_pin.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_pin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_reset.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_reset.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_scenario.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_scenario.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_status.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-alarm_status.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/minisafe2/2021-06-29-changelog.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archives/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
@@ -73,7 +90,7 @@
       <updated>1624610636128</updated>
       <workItem from="1624610637300" duration="2172000" />
       <workItem from="1624939765988" duration="6305000" />
-      <workItem from="1624946399596" duration="7727000" />
+      <workItem from="1624946399596" duration="8524000" />
     </task>
     <servers />
   </component>

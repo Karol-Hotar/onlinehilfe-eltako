@@ -1,3 +1,14 @@
+---
+title: Aktivierungsverzögerung
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
 #### Aktivierungsverzögerung
 
 Wird der Alarm über das PIN-Pad aktiviert, kann eine

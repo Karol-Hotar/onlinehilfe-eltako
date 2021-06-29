@@ -1,3 +1,14 @@
+---
+title: Alarm Aktivieren/Deaktivieren
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
 #### Alarm Aktivieren/Deaktivieren
 
 Wurde der Alarm eingestellt, kann dieser über das Pin-Pad oder über die

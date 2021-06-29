@@ -1,3 +1,15 @@
+---
+title: Alarm Nachrichten
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
 #### Alarm Nachrichten
 
 Alle Nachrichten, die über den Alarm versendet werden sollen, müssen

@@ -1,3 +1,13 @@
+---
+title:  Alarm Keys
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
 #### Alarm Keys
 
 Es können Alarm Keys zum Aktivieren/Deaktivieren des Alarms konfiguriert

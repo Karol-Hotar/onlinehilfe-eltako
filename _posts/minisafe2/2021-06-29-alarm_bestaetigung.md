@@ -1,3 +1,16 @@
+
+---
+title: Akustische Bestätigung
+author: Eltako Gmbh
+categories: [MiniSafe2, Alarm]
+tags: [Alarm]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
 #### Akustische Bestätigung
 
 Es gibt drei Arten von akustischen Bestätigungen, die vom System
