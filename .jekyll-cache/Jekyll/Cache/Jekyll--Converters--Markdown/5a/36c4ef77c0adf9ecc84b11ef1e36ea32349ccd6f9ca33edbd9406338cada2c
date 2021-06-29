@@ -1,0 +1,21 @@
+I"<p>Um den Alarm zu Aktivieren/Deaktivieren wird eine PIN benötigt.</p>
+
+<p style="background:#ccc; padding: 5px;">
+Die voreingestellte PIN lautet 0000
+</p>
+
+<p>Bevor der Alarm verwendet werden kann, muss die Default PIN geändert
+werden. Wird die PIN vergessen, gibt es keine Möglichkeit diese
+zurückzusetzen. Die PIN wird auf 0000 zurückgesetzt, wenn das gesamte
+System zurückgesetzt wird. Daher prägen Sie sich ihre PIN gut ein.</p>
+
+<p>Um die PIN zu ändern, gehen Sie in die Einstellungen -&gt; Alarm. Tippen
+Sie auf “PIN”. Geben Sie Ihre aktuelle PIN und die neue PIN ein. Die PIN
+besteht aus 4 Ziffern von 0-9.</p>
+
+<p style="background:#ccc; padding: 5px;">
+Die PIN wird auch zum Sperren des Gateways verwendet.
+</p>
+
+<p><img src="/de/iqontrol_neo/alarm_pin.png" alt="" /></p>
+:ET

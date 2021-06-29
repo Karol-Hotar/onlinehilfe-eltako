@@ -1,0 +1,151 @@
+I"I<h2 id="räume-und-geräte-anlegen-und-verwalten">Räume und Geräte anlegen und verwalten</h2>
+
+<p>Die Struktur von IQONTROL NEO sieht vor, dass Geräte immer einem Raum
+zugeordnet sind. Wenn Sie ein Gerät in IQONTROL NEO hinzufügen möchten,
+müssen Sie also zunächst entweder in der Raumverwaltung einen Raum
+anlegen oder aus Ihren bereits angelegten Räumen den Raum auswählen, in
+den das Gerät eingeordnet werden soll.</p>
+
+<hr />
+
+<h2 id="1-räume-anlegen-bearbeiten-und-löschen">1. Räume anlegen, bearbeiten und löschen</h2>
+
+<p><img src="/de/iqontrol_neo/iqneo_startseite.jpg" alt="" /> Um Räume anzulegen, zu
+bearbeiten oder zu löschen, müssen Sie zunächst in die Raumverwaltung
+wechseln. Tippen Sie dazu auf dem Startbildschirm der App auf <em>Räume</em>.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_hauptmenue.jpg" alt="" /> Alternativ gelangen Sie über
+das Hauptmenü und dort über den Punkt <em>Räume hinzufügen</em> ebenfalls zur
+selben Unterseite, auf der Sie Ihre Räume anlegen und verwalten können.</p>
+
+<hr />
+
+<h3 id="11-raum-anlegen">1.1 Raum anlegen</h3>
+
+<p>Um einen Raum anzulegen, gehen Sie in die Raumverwaltung wie oben unter
+Punkt 1 beschrieben.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_raeume.jpg" alt="" /> Klicken Sie hier nun auf das
+Plus-Symbol, um einen Raum hinzuzufügen.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_raumanlegen.jpg" alt="" /> Vergeben Sie einen Namen für
+Ihren Raum, z. B. Wohnzimmer. Unter Icon können Sie die Grafik wählen,
+die neben der von Ihnen vergebenen Raumbezeichnung angezeigt wird.
+Tippen Sie anschließend auf <em>Speichern</em>.</p>
+
+<hr />
+
+<h3 id="12-einen-raum-bearbeiten-oder-löschen">1.2 Einen Raum bearbeiten oder löschen</h3>
+
+<p><img src="/de/iqontrol_neo/iqneo_raum_bearbeiten.png" alt="" /> Tippen Sie in der
+Raumverwaltung den Raum an, den Sie bearbeiten möchten und anschließend
+auf das Stift-Symbol neben dem Raum-Namen. Hier können Sie nun den
+Raum-Namen und das Raum-Icon ändern. Zudem können Sie hier auch weitere
+Geräte in die jeweiligen Räume hinzufügen oder Ihre Geräte im jeweiligen
+Raum bearbeiten.</p>
+
+<p>Um einen Raum zu löschen, tippen Sie auf <em>Raum löschen</em>.</p>
+
+<hr />
+
+<h2 id="2-geräte-anlegen-verwalten-und-löschen">2. Geräte anlegen, verwalten und löschen</h2>
+
+<h3 id="21-geräte-anlegen-über-den-gerätetyp">2.1 Geräte anlegen über den Gerätetyp</h3>
+
+<p><img src="/de/iqontrol_neo/iqneo_hauptmenue.jpg" alt="" /> Um ein Gerät in IQONTROL NEO
+anzulegen, öffnen Sie das Hauptmenü und tippen auf <em>Gerät hinzufügen</em>.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_raum_waehlen.jpg" alt="" /> Wählen Sie anschließend
+einen Raum aus, in den das Gerät hinzugefügt werden soll. Haben Sie hier
+noch keinen Raum zur Wahl, legen Sie bitte zunächst einen Raum an.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_geraetetyp_waehlen.jpg" alt="" /> Anschließend wählen
+Sie den Gerätetyp Ihres Gerätes.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_hersteller_waehlen.jpg" alt="" /> Im nächsten Schritt,
+wählen Sie die Marke/den Hersteller Ihres Gerätes aus. Bei Eltako müssen
+Sie hier möglicherweise ebenfalls die entsprechende Baureihe wählen,
+also z.B. Baureihe 14 oder Tippfunk.</p>
+
+<p>Folgen Sie anschließend bitte der Anleitung in der App, die Ihnen
+erläutert, wie Ihr Gerät anzulernen ist. Bei Eltako können Sie hier bei
+einigen Baureihen zusätzlich im Anlernprozess wählen, ob Sie das Gerät
+mit oder ohne Geräteadresse anlernen möchten. Um das Gerät mit Adresse
+anzulernen, klicken Sie im Anlernprozess auf <em>Anlernen mit Adresse</em> und
+folgen Sie anschließend ebenfalls der Anleitung in der App.</p>
+
+<p><span class="underline">Hinweis:</span> Wie Sie Ihr Gerät in den
+Anlernmodus versetzen, können Sie in der Regel der Bedienungsanleitung
+Ihres jeweiligen Gerätes entnehmen. Bei einigen Geräten hilft Ihnen das
+Info-Symbol am unteren, rechten Rand der App dabei, wie Sie Ihr Gerät in
+den Anlernmodus versetzen können.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_geraet_speichern.jpg" alt="" /> Anschließend können Sie
+einen Namen für Ihr Gerät vergeben. Tippen Sie abschließend auf
+<em>Speichern</em>.</p>
+
+<p><strong>WICHTIG</strong> : Eine Ausnahme im Anlernprozess stellen Geräte dar, die
+nicht direkt an das AIO GATEWAY angelernt werden, sondern Du über die
+Cloud in IQONTROL NEO eingebunden werden. Hierzu zählen <strong>Kameras, Somfy
+Tahoma, Philips Hue, Osram Lightify und Netatmo</strong>. Wie Sie diese
+Cloud-Geräte einbinden, erfahren Sie unter <a href="/de/iqontrol_neo/cloud_geraete">Cloud-Geräte
+integrieren</a>.</p>
+
+<p><strong>Hinweis</strong>: Damit Sensoren in der Oberfläche einen korrekten Status
+liefern, kann es nötig sein, diese nach dem Anlernen einmalig
+auszulösen.</p>
+
+<p><strong>Hinweis</strong>: Beim Anlernen der Sensoren von FS20, RS2W und WIR
+Elektronik müssen Sie zunächst den <a href="/de/iqontrol_neo/gateway_konfig">Sensormodus in Ihrem Gateway
+einstellen</a>, um den Status dieser
+Sensoren nach dem Anlernen visualisieren zu können.</p>
+
+<p>===Gerät über Gerätetyp einlernen am Beispiel Eltako ===</p>
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JtixjC146Rg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<p>====2.2 Geräte anlegen über den QR-Code-Scan ==== Einige Geräte wie
+z.B. Eltako, Homematic IP oder OPUS können zusätzlich über das Scannen
+eines QR-Codes angelernt werden.
+<img src="/de/iqontrol_neo/iqneo_hauptmenue.jpg" alt="" /> Um ein Gerät in IQONTROL NEO
+anzulegen, öffnen Sie das Hauptmenü und tippen auf <em>Gerät hinzufügen</em>.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_raum_waehlen.jpg" alt="" /> Wählen Sie anschließend
+einen Raum aus, in den das Gerät hinzugefügt werden soll. Haben Sie hier
+noch keinen Raum zur Wahl, legen Sie bitte zunächst einen Raum an.</p>
+
+<p><img src="/de/iqontrol_neo/iqn-qr-code-ubersicht.jpg" alt="" /> Selekteieren Sie nun den
+Tab <strong>QR-Code</strong> und wählen Sie anschließend den Hersteller Ihres Gerätes
+aus.</p>
+
+<p><img src="/de/iqontrol_neo/iqn-qr-code.jpg" alt="" /> Da sich das Anlernen über einen
+QR-Code je nach Hersteller unterscheiden kann, folgen Sie nun den
+Anweisungen in der App, um das Gerät über den QR-Code anzulernen.</p>
+
+<h4 id="gerät-über-qr-code-einlernen-am-beispiel-eltako">Gerät über QR-Code einlernen am Beispiel Eltako</h4>
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dylfOgHpJwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<hr />
+
+<h3 id="23-geräte-bearbeiten-und-löschen">2.3 Geräte bearbeiten und löschen</h3>
+
+<p><img src="/de/iqontrol_neo/iqneo_raum_bearbeiten.png" alt="" /> Um Geräte zu bearbeiten,
+gehen Sie zunächst in die Raumverwaltung, indem Sie auf der Startseite
+auf <em>Räume</em> tippen. Wählen Sie hier den Raum aus, indem sich das Gerät
+befindet, und tippen Sie anschließend auf das Stift-Symbol, um den Raum
+zu bearbeiten. Tippen Sie nun auf das Gerät, welches Sie bearbeiten
+möchten.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_geraet_speichern.jpg" alt="" /> Hier können Sie nun den
+Gerätenamen ändern, bei Geräten die mehreren Gerätetypen zugeordnet
+werden können (wie z. B. der Tür- und Fenstersensor, der sowohl dem Typ
+„Tür“ als auch dem Typ „Fenster“ zugeordnet werden kann) den Gerätetyp
+wechseln oder das Gerät löschen. Haben Sie Änderungen an Ihrem Gerät
+vorgenommen, tippen Sie auf <em>Speichern</em>. Um das Gerät zu löschen, tippen
+Sie auf <em>Löschen</em>.</p>
+:ET

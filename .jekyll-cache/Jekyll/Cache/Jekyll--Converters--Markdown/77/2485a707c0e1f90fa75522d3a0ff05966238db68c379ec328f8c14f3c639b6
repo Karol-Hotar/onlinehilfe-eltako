@@ -1,0 +1,76 @@
+I"<h2 id="die-iqontrol-neo-startseite">Die IQONTROL NEO Startseite</h2>
+
+<p><img src="/de/iqontrol_neo/iqneo_startseite.jpg" alt="" /></p>
+
+<p>Die App IQONTROL NEO bietet eine Startseite, die nicht nur eine
+Übersicht über diverse Features und Anzeigen bietet, sondern auch den
+Zugang zum Hauptmenü in der linken oberen Ecke ermöglicht, von wo aus
+verschiedene Einstellungen möglich sind.</p>
+
+<p>Die 10 als Kacheln angelegten Kategorien auf der Startseite sind:</p>
+
+<ul>
+  <li>Räume: Anzeige der Geräte nach Räumen</li>
+  <li>Geräte: Anzeige der Geräte nach Gerätetypen</li>
+  <li>Tasks: Übersicht über alle Tasks</li>
+  <li>Szenen: Übersicht und Starten von Szenen</li>
+  <li><a href="/de/iqontrol_neo/kalender">Kalender</a>: Übersicht der
+datumsgebundenen Tasks</li>
+  <li>Sensoren:Anzeige der Sensoren nach Gerätetypen</li>
+  <li>Favoriten: Anzeigen der Favoriten</li>
+  <li>Alarm: Aktivieren/Deaktivieren des angelegten Alarmtask</li>
+  <li>Kameras: Übersicht Ihrer Kameras</li>
+  <li>Einstellungen: Gehen Sie hier direkt in die Einstellungsverwaltung</li>
+</ul>
+
+<p><img src="/de/iqontrol_neo/iqn-uebersicht.png" alt="" /></p>
+
+<p>Auf dem Smartphone ist das Layout der Startseite zugunsten einer guten
+Bedienbarkeit etwas anders aufgebaut. Sie finden hier in 6 Kacheln die
+folgenden Kategorien:</p>
+
+<ul>
+  <li>Räume: Anzeige der Geräte nach Räumen</li>
+  <li>Geräte: Anzeige der Geräte nach Gerätetypen</li>
+  <li>Tasks: Übersicht über alle Tasks</li>
+  <li>Szenen: Übersicht und Starten von Szenen</li>
+  <li>Alarm: Aktivieren/Deaktivieren des angelegten Alarmtask</li>
+  <li>Kameras: Übersicht Ihrer Kameras</li>
+</ul>
+
+<p>Die übrigen 4 Kategorien finden Sie in Form von Tabs als zusätzliche
+Menüleiste am oberen Bildschirmrand:</p>
+
+<ul>
+  <li>Home: Zurück auf die Startseite</li>
+  <li>Sensoren:Anzeige der Sensoren nach Gerätetypen</li>
+  <li>Favoriten: Anzeigen der Favoriten</li>
+  <li><a href="/de/iqontrol_neo/kalender">Kalender</a>: Übersicht der
+datumsgebundenen Tasks</li>
+</ul>
+
+<p>Zudem finden sich auf der Startseite folgende Anzeigen:</p>
+
+<ul>
+  <li><a href="/de/iqontrol_neo/remote">Remotesteuerung</a> aktiv/inaktiv, für die
+Steuerung von außerhalb des Heimnetzwerkes</li>
+  <li>Anzeige des Ortes und der entsprechenden Wetter- und Astrodaten
+(Sonnenaufgang/Sonnenuntergang)</li>
+</ul>
+
+<h3 id="anzeigen-von-ort-wetter--und-astrodaten-auf-der-startseite">Anzeigen von Ort, Wetter- und Astrodaten auf der Startseite</h3>
+
+<p>Das Wetter auf der Startseite kann über einen Wetterdienst angezeigt
+werden. Dazu öffnen Sie das Hauptmenü und gehen hier in Einstellungen
+und tippen auf “Wetter”. Hier geben Sie nun den Ort ein, von dem das
+Wetter angezeigt werden soll. Dazu muss das Format Stadt, Länderkürzel
+eingehalten werden, z.B. „Frankfurt, de“. Sollte die Städtebezeichnung
+nicht eindeutig sein (wie im Beispiel Frankfurt) können Sie über
+Namenserweiterungen, wie z.B. “Frankfurt am Main, de” den entsprechenden
+Ort festlegen.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_wetter.jpg" alt="" /></p>
+
+<p>Kehren Sie anschließend zur Startseite zurück und klicken Sie hier das
+Aktualisieren-Symbol neben dem Städtenamen.</p>
+:ET

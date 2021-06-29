@@ -1,0 +1,245 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/</id>
+  <title>ONLINE HILFE</title>
+  <subtitle>Eltako GmbH Online Hilfe</subtitle>
+  <updated>2021-06-29T06:25:40+00:00</updated>
+  <author>
+    <name>Eltako GmbH</name>
+    <uri>/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="de-DE"
+    href="/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
+  <rights> © 2021 Eltako GmbH </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Tasks</title>
+    <link href="/posts/tasks/" rel="alternate" type="text/html" title="Tasks" />
+    <published>2021-06-29T00:00:00+00:00</published>
+  
+    <updated>2021-06-29T00:00:00+00:00</updated>
+  
+    <id>/posts/tasks/</id>
+    <content src="/posts/tasks/" />
+    <author>
+      <name>Eltako GmbH</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Tasks
+
+1. Tasks erstellen
+
+Im Bereich Tasks können Sie geräteübergreifende Automatisierungen
+anlegen. Dabei wird über einen vorher definierten Auslöser, wie z. B.
+ein Gerätestatus oder eine Uhrzeit, automatisch eine festgelegte Abfolge
+aus Geräteaktionen ausgelöst.
+
+ Um einen Task anzulegen,
+öffnen Sie das Hauptmenü und tippen hier auf Tasks. Über das
+Plus-Symbol können Sie einen neuen Task anl...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Tasks Hysterese</title>
+    <link href="/posts/tasks-hysterese/" rel="alternate" type="text/html" title="Tasks Hysterese" />
+    <published>2021-06-29T00:00:00+00:00</published>
+  
+    <updated>2021-06-29T00:00:00+00:00</updated>
+  
+    <id>/posts/tasks-hysterese/</id>
+    <content src="/posts/tasks-hysterese/" />
+    <author>
+      <name>Eltako GmbH</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Taskmanager: Hysterese-Wert
+
+Wenn Sie einen Task auslösen wollen, sobald ein bestimmter Zahlen-Wert
+überschritten wird, z.B. sobald der CO2-Wert 800 überschreitet, haben
+sie das Problem, dass der task nicht nur bei 800 ausgelöst wird, sondern
+auch bei 801, 802, 803 usw. Ihr Task wird also ständig ausgeführt,
+solange der Wert ansteigt.
+
+Die Lösung bietet hier der sogenannte Hysterese-Wert. Diese...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Szenen</title>
+    <link href="/posts/szenen/" rel="alternate" type="text/html" title="Szenen" />
+    <published>2021-06-29T00:00:00+00:00</published>
+  
+    <updated>2021-06-29T00:00:00+00:00</updated>
+  
+    <id>/posts/szenen/</id>
+    <content src="/posts/szenen/" />
+    <author>
+      <name>Eltako GmbH</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Szenen erstellen
+
+1. Was sind Szenen
+
+Szenen sind Verkettungen/Aneinanderreihungen von Einzelbefehlen. Die
+innerhalb einer Szene vorgenommenen Verkettungen können manuell durch
+einen einzigen Tastendruck ausgelöst werden. Auf diese Weise können Sie
+aus sämtlichen in IQONTROL NEO vorhandenen Geräte-Befehlen individuelle
+Szenarien erstellen. Die in einer Szene gespeicherten Listen aus
+Einzelbefeh...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Startseite</title>
+    <link href="/posts/startseite/" rel="alternate" type="text/html" title="Startseite" />
+    <published>2021-06-29T00:00:00+00:00</published>
+  
+    <updated>2021-06-29T00:00:00+00:00</updated>
+  
+    <id>/posts/startseite/</id>
+    <content src="/posts/startseite/" />
+    <author>
+      <name>Eltako GmbH</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Die IQONTROL NEO Startseite
+
+
+
+Die App IQONTROL NEO bietet eine Startseite, die nicht nur eine
+Übersicht über diverse Features und Anzeigen bietet, sondern auch den
+Zugang zum Hauptmenü in der linken oberen Ecke ermöglicht, von wo aus
+verschiedene Einstellungen möglich sind.
+
+Die 10 als Kacheln angelegten Kategorien auf der Startseite sind:
+
+
+  Räume: Anzeige der Geräte nach Räumen
+  Geräte: An...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Start</title>
+    <link href="/posts/start/" rel="alternate" type="text/html" title="Start" />
+    <published>2021-06-29T00:00:00+00:00</published>
+  
+    <updated>2021-06-29T00:00:00+00:00</updated>
+  
+    <id>/posts/start/</id>
+    <content src="/posts/start/" />
+    <author>
+      <name>Eltako GmbH</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      BEDIENUNGSANLEITUNG IQONTROL NEO
+
+Inhaltsverzeichnis
+
+&amp;lt;!– index_start –&amp;gt;
+
+
+  Erste Schritte: Allgemeines &amp;amp; Account
+    
+      Das AIO GATEWAY integrieren
+      Die Bedienoberfläche: IQONTROL NEO
+Startseite
+      Was finde ich wo? - Das Hauptmenü
+      Ein Firmware-Update machen
+    
+  
+  Räume und Geräte anlegen
+    
+      Kameras integrieren
+      Cloud-Geräte anlegen
+      
+        ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+

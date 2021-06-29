@@ -1,0 +1,53 @@
+I"�	<h4 id="szenen-erstellen">Szenen erstellen</h4>
+
+<h2 id="1-was-sind-szenen">1. Was sind Szenen</h2>
+
+<p>Szenen sind Verkettungen/Aneinanderreihungen von Einzelbefehlen. Die
+innerhalb einer Szene vorgenommenen Verkettungen können manuell durch
+einen einzigen Tastendruck ausgelöst werden. Auf diese Weise können Sie
+aus sämtlichen in IQONTROL NEO vorhandenen Geräte-Befehlen individuelle
+Szenarien erstellen. Die in einer Szene gespeicherten Listen aus
+Einzelbefehlen und Pausen werden dann automatisch entsprechend der
+Reihenfolge der einzelnen Kommando-Einträge nacheinander (nicht
+gleichzeitig) ausgesendet.</p>
+
+<p>So können bspw. “One-Touch”-Abläufe wie “alle Lichter aus” und
+“Rollläden runterfahren” realisiert werden.</p>
+
+<h2 id="2-eine-szene-erstellen">2. Eine Szene erstellen</h2>
+
+<p><img src="/de/iqontrol_neo/iqneo_hauptmenue.jpg" alt="" /><br />
+Um eine Szene zu erstellen, öffnen Sie das Hauptmenü und tippen hier auf
+<em>Szenen</em>. Über das Plus-Symbol können Sie eine neue Szene anlegen.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_szene_anlegen.jpg" alt="" /><br />
+Vergeben Sie einen Namen für Ihre Szene und tippen Sie auf das
+Plus-Symbol im Bereich <em>Aktionen</em>, um einen Gerätebefehl oder eine Pause
+hinzuzufügen.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_szene_aktion2.jpg" alt="" /><br />
+Tippen Sie anschließend die blau markierten Bereiche an, um das Gerät zu
+wählen und den entsprechenden Befehl anzupassen bzw. die Länge der Pause
+zu wählen.</p>
+
+<p>Sie können beliebig viele Gerätebefehle und Pausen zu Ihrer Szene
+hinzufügen, indem Sie erneut auf das Plus-Symbol hinter <em>Aktionen</em>
+tippen.</p>
+
+<h2 id="3-eine-szene-bearbeiten-duplizieren-oder-löschen">3. Eine Szene bearbeiten, duplizieren oder löschen</h2>
+
+<p>Um Ihre Szene zu bearbeiten, zu duplizieren oder zu löschen, öffnen Sie
+das Hauptmenü und tippen auf <em>Szenen</em>.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_szenen_ueberblick.jpg" alt="" /> Nun werden Ihre
+bereits angelegten Szenen aufgelistet. Um die Szene zu bearbeiten,
+tippen Sie auf das Stift-Symbol. Um die Szene zu duplizieren, tippen Sie
+auf das Duplizieren-Symbol. Um die Szene zu löschen, tippen Sie auf den
+Papierkorb.</p>
+
+<h2 id="4-eine-szene-starten">4. Eine Szene starten</h2>
+
+<p><img src="/de/iqontrol_neo/iqneo_szene_starten.jpg" alt="" /> Um Ihre Szenen zu starten,
+tippen Sie auf der Startseite auf <em>Szenen</em>. Tippen Sie nun auf das
+Play-Symbol neben der jeweiligen Szene, um diese zu starten.</p>
+:ET

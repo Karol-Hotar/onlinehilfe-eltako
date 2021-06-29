@@ -1,0 +1,29 @@
+I"C<h2 id="fernzugriff-der-remote-modus">Fernzugriff: Der Remote-Modus</h2>
+
+<p>Um Ihr Smart Home mit IQONTROL NEO auch von unterwegs, außerhalb Ihres
+Heimnetzwerkes bequem steuern zu können, können Sie einfach den
+Remote-Modus in der App nutzen.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_clouddienste.jpg" alt="" /> Für die Nutzung des
+Remote-Modus werden die mediola Cloud-Services benötigt. Sofern Sie noch
+keine Cloud-Services aktiviert haben, können Sie diese direkt in der App
+erwerben. Öffnen Sie dazu das <em>Hauptmenü</em>, wählen hier <em>Account</em> und
+tippen auf <em>Cloud Dienste</em>.</p>
+
+<p>Haben Sie bereits Cloud-Services erworben, können Sie hier die Laufzeit
+der Cloud-Services einsehen. Haben Sie die mediola Cloud-Services nicht
+direkt in der IQONTROL NEO App erworben, sondern in unserem Online-Shop,
+können Sie den dort erworbenen Schlüssel hier ebenfalls aktivieren.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_cloudaccess.jpg" alt="" /> Anschließend müssen Sie noch
+den Cloud-Zugriff auf Ihrem Gateway freischalten. Gehen Sie dazu im
+<em>Hauptmenü</em> auf <em>Einstellungen</em> und wählen <em>Gateways</em>. Schieben Sie hier
+nun den Regler bei <em>Cloud Access</em> nach rechts, um den Cloud-Zugriff
+Ihres Gateways zu aktivieren.</p>
+
+<p><img src="/de/iqontrol_neo/iqneo_remote_symbol.jpg" alt="" /> Nun können Sie auf der
+Startseite den Remote-Modus an- und ausschalten.</p>
+
+<p>Remote-Modus ausgeschaltet:<img src="/de/iqontrol_neo/iqneo_remote_off.jpg" alt="" /><br />
+Remote-Modus eingeschaltet: <img src="/de/iqontrol_neo/iqneo_remote_on.jpg" alt="" /></p>
+:ET

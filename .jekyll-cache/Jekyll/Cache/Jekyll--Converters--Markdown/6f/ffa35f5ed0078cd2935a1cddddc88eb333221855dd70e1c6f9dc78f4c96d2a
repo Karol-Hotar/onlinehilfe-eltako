@@ -1,0 +1,240 @@
+I"<h4 id="gerätebeschränkungen">Gerätebeschränkungen</h4>
+
+<p>Für den Alarm gelten Gerätebeschränkungen. Nicht alle Fenstersensoren
+oder Alarm Keys können als Auslöser oder zur Aktivierung/Deaktivierung
+des Alarms verwendet werden.</p>
+
+<p>Als Auslöser können verwendet werden:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Hersteller</th>
+      <th>Gerät</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Eimsig</td>
+      <td>Tür-/Fenstersensor FGSE,FSE,USE mit den Profilen (A5-14-01), (A5-14-07) und (A5-14-09)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Tür-/Fenstersensor FGSE zusätzlich mit den Profilen (A5-14-03), (A5-14-08) und (A5-14-0A)</td>
+    </tr>
+    <tr>
+      <td>Eltako</td>
+      <td>Fenstergriff FFG7B (A5-14-09)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Fenstergriff FFG7B (F6-10-00)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Fenstergriff FHF</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Tür-/Fensterkontakt FTKB</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Tür-/Fensterkontakt FTKB-hg</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Tür-/Fensterkontakt FTK</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Tür-/Fensterkontakt FTKE</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Fenstergriff TF-FGB (a5-14-09)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Fenstergriff TF-FGB (f6-10-00)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Kontakt TF-FKB</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Kontakt TF-FKE</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Bewegungsmelder FABH65S</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Bewegungsmelder FBH63AP</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Bewegungsmelder FBH65B</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Bewegungsmelder FBH65S</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Bewegungsmelder FBH65TFB (motion)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Bewegungsmelder TF-BHSB (TF mode)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Bewegungsmelder TF-BHSB (FBH mode)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Bewegungsmelder TF-BSB55</td>
+    </tr>
+    <tr>
+      <td>Homematic IP</td>
+      <td>HmIP-SWDO-I</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>HmIP-SWDO</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>HmIP-SRH</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>HmIP-SWDM</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>HmIP-SMI</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>HmIP-SMI55</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>HmIP-SMO</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>HmIP-SMO-A</td>
+    </tr>
+    <tr>
+      <td>Kopp</td>
+      <td>Freecontrol 3 Fenster- / Türkontakt</td>
+    </tr>
+    <tr>
+      <td>MACO</td>
+      <td>mTRONIC Multisensor</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>eTRONIC Fenstersensor</td>
+    </tr>
+    <tr>
+      <td>OPUS</td>
+      <td>Tür-/Fenstergriff</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Türgriff</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Tür-/Fensterkontakt</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>SMS-MultiFunction</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>SMS-Presence</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>SMS-Standard</td>
+    </tr>
+    <tr>
+      <td>Roto</td>
+      <td>Com-Tec Basic (a5-14-01)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Com-Tec Basic (d5-00-01)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Com-Tec Comfort</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Com-Tec Comfort S</td>
+    </tr>
+    <tr>
+      <td>Rehau</td>
+      <td>SmartGuard Fenster Sensor</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>SmartGuard 2 Fenster Sensor</td>
+    </tr>
+    <tr>
+      <td>Winkhaus</td>
+      <td>Fensterkontakt FM.A</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Fensterkontakt FM.V (D5-00-01)</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Fensterkontakt FM.V (A5-14-01)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Als Alarm Keys zur Aktivierung/Deaktivierung des Alarm können verwendet
+werden:</p>
+
+<ul>
+  <li>Alle Homematic IP Taster und Handfernbedienungen (z.B. HmIP-KRCA,
+HmIP-RC8 usw.)</li>
+</ul>
+
+<p>Als Geräte zur akustischen Bestätigung der Aktivierung/Deaktivierung
+sowie als Alarmsirene können verwendet werden:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Hersteller</th>
+      <th>Gerät</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Homematic IP</td>
+      <td>Alarmsirene HmIP-ASIR</td>
+    </tr>
+    <tr>
+      <td>Sonos</td>
+      <td>Play Geräte</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Als Geräteaktionen können alle im System angelegten Aktoren verwendet
+werden.</p>
+:ET

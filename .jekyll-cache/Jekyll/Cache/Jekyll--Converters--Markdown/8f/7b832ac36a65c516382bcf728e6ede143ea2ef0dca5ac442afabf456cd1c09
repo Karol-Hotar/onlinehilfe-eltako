@@ -1,0 +1,22 @@
+I"�<h4 id="hüll--und-vollschutz">Hüll- und Vollschutz</h4>
+
+<p>Der Alarm wird in Hüll- und Vollschutz unterteilt.</p>
+
+<h4 id="hüllschutz">Hüllschutz</h4>
+
+<p>Als Hüllschutz werden alle Sensoren bezeichnet, die die Außenhaut eines
+Gebäudes schützen, z.B. die Fenstersensoren aller Außenfenster, sowie
+Bewegungsmelder im Außenberereich. Der Hüllschutz lässt sich aktivieren,
+wenn die Bewohner des Hauses zu Hause sind und nicht planen, das Gebäude
+zu verlassen, z.B. nachts.</p>
+
+<h4 id="vollschutz">Vollschutz</h4>
+
+<p>Als Vollschutz werden alle Sensoren der Außenhaut sowie intern
+vorhandene Bewegungsmelder sowie Tür-/Fenstersensoren bezeichnet. Der
+Vollschutz wird aktiviert, wenn die Bewohner des Hauses nicht zu Hause
+sind und eine vollständige Überwachung des Hauses stattfinden soll.</p>
+
+<p>Voll- und Hüllschutz können getrennt voneinander konfiguriert werden und
+müssen nicht zusammen betrieben werden.</p>
+:ET

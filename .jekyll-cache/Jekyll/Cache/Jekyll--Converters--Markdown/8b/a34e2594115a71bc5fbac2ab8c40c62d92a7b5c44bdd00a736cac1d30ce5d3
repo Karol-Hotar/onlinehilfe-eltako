@@ -1,0 +1,68 @@
+I"�	<h4 id="alarm-aktivierendeaktivieren">Alarm Aktivieren/Deaktivieren</h4>
+
+<p>Wurde der Alarm eingestellt, kann dieser über das Pin-Pad oder über die
+angelegten Alarm Keys aktiviert/deaktiviert werden.</p>
+
+<h4 id="alarmzustände">Alarmzustände</h4>
+
+<p>Der aktuelle Zustand des Alarms wird auf dem Dashboard dargestellt:</p>
+
+<p>Alarm deaktiviert:</p>
+
+<p><img src="/de/iqontrol_neo/alarm_deaktiviert.png" alt="" /></p>
+
+<p>Vollschutz aktiviert:</p>
+
+<p><img src="/de/iqontrol_neo/vollschutz_aktiviert.png" alt="" /></p>
+
+<p>Hüllschutz aktiviert:</p>
+
+<p><img src="/de/iqontrol_neo/huellschutz_aktiviert.png" alt="" /></p>
+
+<p>Zum Aktivieren/Deaktivieren tippen Sie auf das Icon. Jetzt erscheint die
+Auswahl zwischen Hüll- und Vollschutz. Wählen Sie den Alarm, den Sie
+aktivieren möchten. Jetzt öffnet sich das Pin-Pad.</p>
+
+<h4 id="alarm-aktivieren">Alarm aktivieren</h4>
+
+<p>Um den Alarm zu aktivieren, müssen alle Fenster/Türen, die im Alarm
+eingestellt wurden, geschlossen sein, da es ansonsten bei der
+Aktivierung zu einem Fehler kommt (Fehler Ton wird abgespielt, falls
+eingestellt). Die Aktivierung über einen Alarm Key ist auch nicht
+möglich.</p>
+
+<p>Ist ein/e Fenster/Tür geöffnet, wird dies im Pin-Pad angezeigt:</p>
+
+<p><img src="/de/iqontrol_neo/geoeffnete_fenster.png" alt="" /></p>
+
+<p>Sind alle Fenster und Türen geschlossen, kann der Alarm durch die
+PIN-Eingabe aktiviert werden. Wurde eine Aktivierungsverzögerung
+eingestellt, wird diese jetzt ausgeführt, ansonsten wird der Alarm
+direkt aktiviert.</p>
+
+<p><img src="/de/iqontrol_neo/alarm_aktivieren.png" alt="" /></p>
+
+<p>Wird der Alarm aktiviert, wird das Gateway gesperrt. In diesem Zustand
+ist es nicht möglich, Änderungen am System vorzunehmen. Dies dient der
+Manipulationssicherheit am System und ist zu erkennen am
+Gateway-gesperrt-Icon auf dem Dashboard.</p>
+
+<p><img src="/de/iqontrol_neo/system_gesperrt.png" alt="" /></p>
+
+<h4 id="alarm-deaktivieren">Alarm deaktivieren</h4>
+
+<p>Ist ein Alarm aktiviert, wird sofort das Pin-Pad zum Deaktivieren
+geöffnet.</p>
+
+<p>Wird der Alarm deaktiviert, wird die Gatewaysperre nicht automatisch
+mitaufgehoben. Diese muss manuell aufgehoben werden.</p>
+
+<p style="background:#ccc;padding: 5px;">
+Wird die Systemsperre aufgehoben während der Alarm aktiviert ist, kann der Alarm ohne PIN deaktiviert und bearbeitet werden.
+</p>
+
+<p>Durch Tippen auf das Gateway-gesperrt-Icon kann das System entsperrt
+werden. Der Pin ist derselbe wie der Alarm-PIN.</p>
+
+<p><img src="/de/iqontrol_neo/system_entsperren.png" alt="" /></p>
+:ET

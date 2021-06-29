@@ -1,0 +1,64 @@
+I"�<h2 id="direktverknüpfungen-und-verknüpfungen-zwischen-geräten-erstellen">Direktverknüpfungen und Verknüpfungen zwischen Geräten erstellen</h2>
+
+<h3 id="direktverknüpfungen-und-verknüpfungen">Direktverknüpfungen und Verknüpfungen</h3>
+
+<p>Bei Geräte-Verknüpfungen unterscheiden wir zwischen Direktverknüpfungen,
+bei denen die Geräte ohne Gateway-Beteiligung direkt miteinander
+kommunizieren und zwischen Verknüpfungen, bei denen die Gerätesteuerung
+über das Gateway läuft. Mit Verknüpfungen oder Direktverknüpfungen
+können Geräte untereinander verbunden werden, sodass zum Beispiel mit
+einem Wandthermostat direkt ein Heizkörperthermostat gesteuert werden
+kann, ohne dass dafür ein Task angelegt werden muss.</p>
+
+<h3 id="homematic-ip-direktverknüpfungen">Homematic IP Direktverknüpfungen</h3>
+
+<p>Homematic IP Direktverknüpfungen können nur für Homematic IP Geräte
+untereinander erstellt werden und hier auch nur für heizungsbasierte
+Geräte wie Fenstersensoren und Heizkörperthermostate / Wandthermostate.
+Die Geräte kommunizieren nach der Direktverknüpfung autark untereinande
+, das Gateway wird für die Kommunikation der Geräte miteinander nicht
+benötigt. Direktverknüpfung können direkt nach dem Anlernen erstellt
+werden, können aber auch noch zu einem späteren Zeitpunkt in den
+Geräteeinstellungen (unter Räume  Bearbeiten Gerät wählen) erneut
+verknüpft werden.</p>
+
+<h4 id="direktverknüpfungen-zwischen-hmip-geräten">Direktverknüpfungen zwischen HMIP-Geräten</h4>
+
+<p>Diese Funktion steht nur für Homematic IP-Komponenten und aktuell nur
+für heizungsbasierte Verknüpfungen zur Verfügung.</p>
+
+<p>Gehen Sie im Hauptmenü auf <em>Einstellungen</em> und dort unter <em>Räume</em>.
+Wählen Sie hier das Gerät, mit welchem Sie eine Direktverknüpfung zu
+einem anderen Gerät erstellen möchten.</p>
+
+<p><img src="/de/iqontrol_neo/direktverknuepfung3.jpg" alt="" /> Tippen Sie nun auf den
+Button <em>Direktverknüpfungen</em>.</p>
+
+<p><img src="/de/iqontrol_neo/direktverknuepfung1.jpg" alt="" /> Anschließend bekommen Sie
+die Komponenten angezeigt, die Sie nun mit diesem Gerät verknüpfen
+können. Wählen Sie das entsprechende Gerät durch antippen aus. Es wird
+dann automatisch eine Direktverknüpfung angelegt.</p>
+
+<h3 id="verknüpfungen">Verknüpfungen</h3>
+
+<p>Verknüpfungen mit Wandthermostaten, Heizkörperthermostaten, Dimmern
+sowie Dimmertastern und Tastern, die über zwei Buttons verfügen,
+möglich, sofern diese von Eltako oder Homematic IP sind. Geräte, die
+mit Tastern verknüpft sind, müssen über einen toggl-Befehl verfügen.</p>
+
+<p>Die Geräte kommunizieren nach einer Verknüpfung über das Gateway
+miteinander, ohne dass ein Task angelegt werden muss. Verknüpfung können
+direkt nach dem Anlernen erstellt werden, können aber auch noch zu einem
+späteren Zeitpunkt in den Geräteeinstellungen (unter Räume –&gt;
+Bearbeiten–&gt; Gerät wählen) erneut verknüpft werden. Dabei muss die
+Verknüpfung immer vom Steuergerät (Wandthermostat, Taster) aus mit einem
+zu steuernden Gerät verknüpft werden.</p>
+
+<p><img src="/de/iqontrol_neo/direktverknuepfung_nach_anlernen2.png" alt="" /></p>
+
+<p><img src="/de/iqontrol_neo/direktverknuepfung_nach_anlernen3.png" alt="" /></p>
+
+<p>Hinweis: Je nach Verknüpften Geräten, kann die Ansteuerung ein paar
+Sekunden benötigen. Warten sie daher bitte einen Moment, wenn das
+anzusteuernde Gerät nicht unmittelbar reagiert.</p>
+:ET

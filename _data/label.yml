@@ -1,0 +1,19 @@
+# The label text of site.
+
+panel:
+  lastmod: Kürzliches Update
+  trending_tags: Trendige Tags
+  toc: Inhalt
+
+post:
+  relate_posts: Weiterführende Literatur
+  share: Teilen
+  button:
+    next: Nächster
+    previous: Bisherige
+
+search_hint: Suche   # text show on search bar
+
+pin_prompt: Angepinnt # pinned prompt
+
+read_time_unit: min   # see posts' time to read

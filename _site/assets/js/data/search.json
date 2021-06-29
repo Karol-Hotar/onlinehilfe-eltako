@@ -1,0 +1,769 @@
+[
+  
+  {
+    "title": "Tasks",
+    "url": "/posts/tasks/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Tasks1. Tasks erstellenIm Bereich Tasks können Sie geräteübergreifende Automatisierungenanlegen. Dabei wird über einen vorher definierten Auslöser, wie z. B.ein Gerätestatus oder eine Uhrzeit, automatisch eine festgelegte Abfolgeaus Geräteaktionen ausgelöst. Um einen Task anzulegen,öffnen Sie das..."
+  },
+  
+  {
+    "title": "Tasks Hysterese",
+    "url": "/posts/tasks-hysterese/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Taskmanager: Hysterese-WertWenn Sie einen Task auslösen wollen, sobald ein bestimmter Zahlen-Wertüberschritten wird, z.B. sobald der CO2-Wert 800 überschreitet, habensie das Problem, dass der task nicht nur bei 800 ausgelöst wird, sondernauch bei 801, 802, 803 usw. Ihr Task wird also ständig ausg..."
+  },
+  
+  {
+    "title": "Szenen",
+    "url": "/posts/szenen/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Szenen erstellen1. Was sind SzenenSzenen sind Verkettungen/Aneinanderreihungen von Einzelbefehlen. Dieinnerhalb einer Szene vorgenommenen Verkettungen können manuell durcheinen einzigen Tastendruck ausgelöst werden. Auf diese Weise können Sieaus sämtlichen in IQONTROL NEO vorhandenen Geräte-Befeh..."
+  },
+  
+  {
+    "title": "Startseite",
+    "url": "/posts/startseite/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Die IQONTROL NEO StartseiteDie App IQONTROL NEO bietet eine Startseite, die nicht nur eineÜbersicht über diverse Features und Anzeigen bietet, sondern auch denZugang zum Hauptmenü in der linken oberen Ecke ermöglicht, von wo ausverschiedene Einstellungen möglich sind.Die 10 als Kacheln angelegten..."
+  },
+  
+  {
+    "title": "Start",
+    "url": "/posts/start/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "BEDIENUNGSANLEITUNG IQONTROL NEOInhaltsverzeichnis&amp;lt;!– index_start –&amp;gt;  Erste Schritte: Allgemeines &amp;amp; Account          Das AIO GATEWAY integrieren      Die Bedienoberfläche: IQONTROL NEOStartseite      Was finde ich wo? - Das Hauptmenü      Ein Firmware-Update machen        Rä..."
+  },
+  
+  {
+    "title": "Remote",
+    "url": "/posts/remote/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Fernzugriff: Der Remote-ModusUm Ihr Smart Home mit IQONTROL NEO auch von unterwegs, außerhalb IhresHeimnetzwerkes bequem steuern zu können, können Sie einfach denRemote-Modus in der App nutzen. Für die Nutzung desRemote-Modus werden die mediola Cloud-Services benötigt. Sofern Sie nochkeine Cloud-..."
+  },
+  
+  {
+    "title": "Raeume_geraete",
+    "url": "/posts/raeume_geraete/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Räume und Geräte anlegen und verwaltenDie Struktur von IQONTROL NEO sieht vor, dass Geräte immer einem Raumzugeordnet sind. Wenn Sie ein Gerät in IQONTROL NEO hinzufügen möchten,müssen Sie also zunächst entweder in der Raumverwaltung einen Raumanlegen oder aus Ihren bereits angelegten Räumen den ..."
+  },
+  
+  {
+    "title": "Qr_code_archiv",
+    "url": "/posts/qr_code_archiv/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "QR Code ArchivViele Geräte benutzen beim Anlernen eindeutige IDs oder Schlüssel inForm eines QR Ccodes, der beim Anlernen gescannt werden muss. Damit dieQR Codes nicht verloren gehen, bietet IQONTROL die Möglichkeit QR Codesin der App zu speichern und in der Cloud zu sichern. Gespeicherte QRCodes..."
+  },
+  
+  {
+    "title": "Push",
+    "url": "/posts/push/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Push-Nachrichten für Ihr Mobilgerät einrichtenUm auf dem Mobilgerät Push-Nachrichten aus Tasks empfangen zu können,müssen Sie Ihr Mobilgerät zunächst für Push-Nachrichten einrichten.Dies können Sie direkt in IQONTROL NEO tun.Gehen Sie dazu im Hauptmenü zunächst auf Account und tippen hierPush-Ger..."
+  },
+  
+  {
+    "title": "Open_weathermap",
+    "url": "/posts/open_weathermap/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "OpenWeathermap als AuslöserOpenWeathermap als Gerät integrierenUm OpenWeathermap als Auslöser im Taskmanager verwenden zu können,müssen Sie den Online-Dienst zunächst als Cloud-Verbindung einrichten.Eine Cloudverbindung zu Open Weathermap einrichten Zunächst müssen Sie die denCloud Access auf Ihr..."
+  },
+  
+  {
+    "title": "More",
+    "url": "/posts/more/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Systemvoraussetzungen:iOS: iOS 8.0 oder höherAndroid: 4.4 oder höher→Bedienungsanleitung→Changelog"
+  },
+  
+  {
+    "title": "Kopp_freecontrol",
+    "url": "/posts/kopp_freecontrol/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Kopp Free Control 3.0 integrierenUm Kopp Free Control 3 Geräte zu integrieren, öffnen Sie das Hauptmenüund klicken auf Geräte hinzufügen.Wählen Sie anschließend den Raum, in den das Gerät hinzugefügt werdensoll, oder legen Sie einen Raum an, sofern Sie noch keinen Raum zur Wahlhaben.Wählen Sie de..."
+  },
+  
+  {
+    "title": "Konfiguration",
+    "url": "/posts/konfiguration/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "App-Konfiguration speichern &amp;amp; ladenSie haben in IQONTROL NEO die Möglichkeit, Ihre kompletteApp-Konstellation inkl. der angelernten Geräte in der Cloud zu sichern.Auf diese Weise können Sie sich Ihre erstellte Smart Home-Steuerung ganzeinfach auf ein neues Mobilgerät laden.Konfiguration i..."
+  },
+  
+  {
+    "title": "Kameras",
+    "url": "/posts/kameras/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Kameras integrierenIn IQONTROL NEO können Sie auch einige Kamera-Modelle integrieren.Welche Modelle hier aktuell kompatibel sind, können Sie unsererKompatibilitätsliste entnehmen.Die Anbindung der Kameras erfolgt als Cloud-System über den IvideonCloud-Account. Richten Sie daher bitte zunächst Ihr..."
+  },
+  
+  {
+    "title": "Kalender",
+    "url": "/posts/kalender/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Auf der Startseite finden Sie die Kachel Kalender. Wenn sie dieseanklicken, erhalten Sie ein aktuelles Kalendarium, in welchem diejenigenTasks eingetragen sind, die an bestimmten (Wochen-)Tagen ausgeführtwerden. So erhalten Sie schnell einen Überblick über Ihre zeitgebundenenTasks. Im Kalender kö..."
+  },
+  
+  {
+    "title": "Ir_fernbedienung",
+    "url": "/posts/ir_fernbedienung/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Eine IR-Fernbedienung anlegenUm die Infrarot-Befehle einer Fernbedienung anzulernen, wählen Sie imHauptmenü Geräte hinzufügen aus und selektieren den Raum, in den IhreFernbedienung hinzugefügt werden soll. Wählen Sie dann als GerätetypIR-Fernbedienung aus. Als Hersteller wählen Sieebenfalls IR-Fe..."
+  },
+  
+  {
+    "title": "Ip_geraete",
+    "url": "/posts/ip_geraete/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "IP-Geräte und - Gateways in IQONTROL NEO einbinden (nur V6-Serie)In IQONTROL NEO können neben Funkkomponenten und IR-Codes auch IP-Geräteund - Gateways sowie die an diese Gateways angebundenen Geräteeingebunden werden. Dieses Feature ist nur mit AIO GATEWAYs der V6-Seriemöglich.Aktuell können fol..."
+  },
+  
+  {
+    "title": "Individuelle_konfiguration",
+    "url": "/posts/individuelle_konfiguration/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Eingeschränkte Konfiguration speichernEs ist möglich, Konfigurationen mit einer eingeschränkten Geräteliste zuspeichern, um bspw. Usern nicht den vollen Zugriff auf alle Geräte desSystems zu gewähren. Zum Beispiel können Sie einem Kind in dessenKonfiguration nur spezielle Geräte freischalten und ..."
+  },
+  
+  {
+    "title": "Heizplan",
+    "url": "/posts/heizplan/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Heizpläne erstellenIn IQONTROL NEO ist es ab Version 1.10 möglich, Heizpläne anzulegen unddarüber die Heizung vollautomatisch zu bestimmten Zeiten auf vorherdefinierte Temperaturen zu regeln.Die Heizpläne finden Sie unter Menü–&amp;gt; HeizpläneZunächst können Sie den Namen des Heizplans festlege..."
+  },
+  
+  {
+    "title": "Hauptmenue",
+    "url": "/posts/hauptmenue/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Das HauptmenüDas Hauptmenü kann von der Startseite aus aufgerufen werden, indem manauf die 3 parallelen Balken in der linken oberen Ecke tippt. Über dasHauptmenü lassen sich sämtliche Einstellungen für IQONTROL NEO vornehmenund alle Bereiche der App erreichen.Innerhalb des Hauptmenüs finden sich ..."
+  },
+  
+  {
+    "title": "Geraetebeschraenkungen",
+    "url": "/posts/geraetebeschraenkungen/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "GerätebeschränkungenFür den Alarm gelten Gerätebeschränkungen. Nicht alle Fenstersensorenoder Alarm Keys können als Auslöser oder zur Aktivierung/Deaktivierungdes Alarms verwendet werden.Als Auslöser können verwendet werden:            Hersteller      Gerät                  Eimsig      Tür-/Fenst..."
+  },
+  
+  {
+    "title": "Gateway_sperren",
+    "url": "/posts/gateway_sperren/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Gateway sperrenUm die Gatewaysperre zu nutzen muss mindestens die App Version 1.17 und eine Firmware Version 1.14 verwendet werden. Die Gatewaysperre ist nur für die V6-Serie verfügbar.Seit der App Version 1.17 ist es möglich, das Gateway gegen gewollteoder ungewollte Änderungen zu schützen, in d..."
+  },
+  
+  {
+    "title": "Gateway_konfig",
+    "url": "/posts/gateway_konfig/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Die Gateway-Einstellungen konfigurierenUm verschiedene Einstellungen an Ihrem AIO GATEWAY vornehmen zu können,gehen Sie ins Hauptmenü und von dort unter Einstellungen zuGateways.Hier können Sie:  den Namen für Ihr Gateway ändern  die IP-Adresse Ihres AIO GATEWAYs anpassen  den Cloud-Access für di..."
+  },
+  
+  {
+    "title": "Gateway",
+    "url": "/posts/gateway/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Das AIO GATEWAY in IQONTROL NEO einbindenNachdem Sie sich mit Ihrem mediola-Account angemeldet haben, erscheinteine Übersicht der möglichen AIO GATEWAYS, die Sie mit IQONTROL NEOnutzen können.Wählen Sie hier Ihren Gateway-Typ aus.Anschließend können Sie zwischen drei verschiedenen Designs für Ihr..."
+  },
+  
+  {
+    "title": "Fwupdate",
+    "url": "/posts/fwupdate/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Ein Firmware-Update machenWir empfehlen Ihr AIO GATEWAY in IQONTROL NEO stets mit der neustenFirmware zu betreiben. Um die Firmware Ihres Gateways zuaktualisieren, gehen Sie im Hauptmenü zunächst in die Einstellungen… … und tippen hier aufGateways. Wählen Sie im Anschluss Ihr AIOGATEWAY aus. Ganz..."
+  },
+  
+  {
+    "title": "Faq",
+    "url": "/posts/faq/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "FAQ IQONTROL NEOFür welche Plattformen ist IQONTROL NEO verfügbar?Android: ab Android 4.4iOS: ab der Version iOS 9Ausrichtungen:Tablet: QuerformatPhone: HochformatDie App ist nicht drehbar.Kann man IQONTROL NEO ohne AIO GATEWAY verwenden?Nein, die Anbindung an ein AIO GATEWAY ist notwendig.Welche..."
+  },
+  
+  {
+    "title": "Fahrzeit",
+    "url": "/posts/fahrzeit/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Endlagereinstellungen und Fahrzeiten bei Rollläden oder Jalousien**Aktuell nur für Homematic und Homematic IP Rollläden **Unmittelbar nach dem Anlernen von Rollläden oder Jalousien können Siedie Endlagereinstellungen oder Fahrzeiten ihrer Rollläden und Jalousiendirekt in IQONTROL NEO festlegen.Mö..."
+  },
+  
+  {
+    "title": "Erweiterungen",
+    "url": "/posts/erweiterungen/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Z-Wave und EnOcean: Die Erweiterungen V6 Plus und V5 Plus freischaltenDas AIO GATEWAY V6 Plus kann über die integrierten USB-Ports um denoptionalen Funkstandard Z-Wave erweitert werden (EnOcean ist hierintegriert und muss nicht via stick angebunden werden). Das V5 Plus kannum Z-Wavw, Zigbee und E..."
+  },
+  
+  {
+    "title": "Direktverknuepfung",
+    "url": "/posts/direktverknuepfung/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Direktverknüpfungen und Verknüpfungen zwischen Geräten erstellenDirektverknüpfungen und VerknüpfungenBei Geräte-Verknüpfungen unterscheiden wir zwischen Direktverknüpfungen,bei denen die Geräte ohne Gateway-Beteiligung direkt miteinanderkommunizieren und zwischen Verknüpfungen, bei denen die Gerä..."
+  },
+  
+  {
+    "title": "Cloud_geraete",
+    "url": "/posts/cloud_geraete/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Cloud-Geräte anlegenNeben den Geräten, die Sie direkt an das AIO GATEWAY anlernen, ist esauch möglich, Geräte weiterer Hersteller über eine Cloudverbindung inIQONTROL NEO zu integrieren und über die Cloud zu steuern. Dies sindGeräte von Osram Lightify, Netatmo, Philips Hue und Ivideon(Eco-Kamera)..."
+  },
+  
+  {
+    "title": "Cloud_export",
+    "url": "/posts/cloud_export/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Sprachsteuerung und CO: Der Cloud-ExportÜber die mediola Cloud-Services können Sie verschiedene externeCloud-Dienste wie Amazon Alexa, Google Home oderAutomatisierungsplattformen wie Conrad Connect und IFTTT mit einemGroßteil Ihrer in IQONTROL NEO integrierten Geräten verwenden.Um Ihre Geräte bei..."
+  },
+  
+  {
+    "title": "Cloud Dienste",
+    "url": "/posts/cloud-dienste/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Cloud-DiensteUnter Cloud-Dienste können Sie Cloud-Services erwerben, das Ablaufdatumderselben einsehen oder einen Cloud-Service Freischaltcode eingeben.Cloud-Services werden für die Remote-Steuerung von außerhalb IhresHeimnetzwerkes, für Sprachsteuerung mit Amazon Alexa oder Google Home,sowie für..."
+  },
+  
+  {
+    "title": "Changelog",
+    "url": "/posts/changelog/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "IQONTROL NEO ChangelogVersion 1.20 Bugfix ReleaseDevice Integration  IP-1768 JAB Anstoetz Integration  IP-1816 Integration von neuen Eltako Geräten  IP-1782 Integration von HMIP-FSI16 inkl. Integration von neuen HMIP Settings für V6 Serie  IP-1655 Gealan Lüfter  IP-1796 HMIP-BSM Unterstützung mit..."
+  },
+  
+  {
+    "title": "Alarm_status",
+    "url": "/posts/alarm_status/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Alarm StatusWenn Sie nicht sicher sind, wie der aktuelle Alarmstatus ist, gehen Siein die Einstellungen -&amp;gt; Alarm. Tippen Sie auf Status. Dort sehen Sieden aktuellen Status gestaffelt nach Gateways (falls mehrere verwendetwerden)."
+  },
+  
+  {
+    "title": "Alarm_scenario",
+    "url": "/posts/alarm_scenario/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "AlarmDer alte Alarmtask wurde durch ein neues,umfangreicheres Alarmszenario abgelöst. Der neue Alarm zeichnet sichdadurch aus, dass er weitaus mehr Funktionen und eine tiefergehendeSystemsicherheit gegenüber dem einfachen Alarmtask bietet.Wichtig:Der neue Alarm ist ab der App Version 1.17 verfügb..."
+  },
+  
+  {
+    "title": "Alarm_reset",
+    "url": "/posts/alarm_reset/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Alarm zurücksetzenMuss der Alarm einmal zurückgesetzt werden, kann dies in denEinstellungen des Gateways vorgenommen werden. Dazu gehen Sie in dieEinstellungen -&amp;gt; Gateways. Wählen Sie das Gateway, auf dem Sie denAlarm zurücksetzen möchten und gehen Sie in die Experteneinstellungen.Achtung:..."
+  },
+  
+  {
+    "title": "Alarm_pin",
+    "url": "/posts/alarm_pin/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Um den Alarm zu Aktivieren/Deaktivieren wird eine PIN benötigt.Die voreingestellte PIN lautet 0000Bevor der Alarm verwendet werden kann, muss die Default PIN geändertwerden. Wird die PIN vergessen, gibt es keine Möglichkeit diesezurückzusetzen. Die PIN wird auf 0000 zurückgesetzt, wenn das gesamt..."
+  },
+  
+  {
+    "title": "Alarm_nachrichten",
+    "url": "/posts/alarm_nachrichten/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Alarm NachrichtenAlle Nachrichten, die über den Alarm versendet werden sollen, müssenvorher in den Alarmeinstellungen angelegt werden. Danach können dieseals Aktionen in der Alarmkonfiguration ausgewählt werden.Um die Nachrichten zu verwalten, gehen Sie in die Einstellungen -&amp;gt;Alarm und tip..."
+  },
+  
+  {
+    "title": "Alarm_migrieren",
+    "url": "/posts/alarm_migrieren/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Allgemeine InfosLeider ist es nicht möglich, Einstellungen des alten Alarms auf denneuen Alarm zu übernehmen. Daher werden bei einer Umstellung auf denneuen Alarm die alten Alarmeinstellungen unwiderruflich gelöscht. Dahersollte nur auf den neuen Alarm umgestellt werden, wenn der alte Alarmgelösc..."
+  },
+  
+  {
+    "title": "Alarm_konfigurieren",
+    "url": "/posts/alarm_konfigurieren/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Alarm konfigurierenVoll- und Hüllschutz werden getrennt voneinander konfiguriert und esmüssen nicht beide konfiguriert werden. Beachten Sie, dass Sie zurKonfiguration nur zu diesem Einsatzzweck unterstützteGeräte verwenden können.Um den Alarm zu konfigurieren, gehen Sie in Einstellungen -&amp;gt;..."
+  },
+  
+  {
+    "title": "Alarm_keys",
+    "url": "/posts/alarm_keys/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Alarm KeysEs können Alarm Keys zum Aktivieren/Deaktivieren des Alarms konfiguriertwerden. Aktuell stehen dazu nur Homematic IP Taster und Handsender zurVerfügung, da diese verschlüsselt mit dem System kommunizieren und dasSignal gegen eine Replay-Attacke geschützt ist.Um einen neuen Alarm Key anz..."
+  },
+  
+  {
+    "title": "Alarm_huellschutz_vollschutz",
+    "url": "/posts/alarm_huellschutz_vollschutz/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Hüll- und VollschutzDer Alarm wird in Hüll- und Vollschutz unterteilt.HüllschutzAls Hüllschutz werden alle Sensoren bezeichnet, die die Außenhaut einesGebäudes schützen, z.B. die Fenstersensoren aller Außenfenster, sowieBewegungsmelder im Außenberereich. Der Hüllschutz lässt sich aktivieren,wenn ..."
+  },
+  
+  {
+    "title": "Alarm_haustuer",
+    "url": "/posts/alarm_haustuer/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "HaustürEin als Auslöser gespeicherter Sensor kann als Haustür mitZeitverzögerung definiert werden. Wird der als Haustür definierteSensor ausgelöst (also die Haustür geöffnet), hat man noch Zeit denAlarm zu deaktivieren, bevor der Alarm ausgelöst wird. Die Zeit wird inden Haustüreinstellungen defi..."
+  },
+  
+  {
+    "title": "Alarm_cloudaktivierung",
+    "url": "/posts/alarm_cloudaktivierung/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "CloudaktivierungPer Default ist die Aktivierung/Deaktivierung aus Sicherheitsgründennicht über die Cloud möglich. Dies muss vom User bewußt manuelleingestellt werden. Dazu gehen Sie in Einstellungen -&amp;gt; Alarm. TippenSie auf “Cloudaktivierung”. Setzen Sie den Haken bei “Cloudaktivierung”.Nun..."
+  },
+  
+  {
+    "title": "Alarm_bestaetigung",
+    "url": "/posts/alarm_bestaetigung/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Akustische BestätigungEs gibt drei Arten von akustischen Bestätigungen, die vom Systemausgegeben werden können.  Ton bei Aktivierung  Ton bei Deaktivierung  Ton bei Fehler (Alarmzustand wurde nicht geändert)Als akustische Signalgeber können derzeit nur die Homematic IP SireneHmIP-ASIR oder ein So..."
+  },
+  
+  {
+    "title": "Alarm_beispiel",
+    "url": "/posts/alarm_beispiel/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "AnwendungsbeispielEine dreiköpfige Familie nutzt den Alarm als Einbruchsschutz ihresEinfamilienhaus. Dazu ist vorhanden:Alle Fenster sowie die Haustür sind mit Fenstersensoren ausgestattet.Jedes Familienmitglied hat eine Handfernbedienung zumAktivieren/Deaktivieren des Alarms. Als akustischer Sig..."
+  },
+  
+  {
+    "title": "Alarm_aktivierungsverzoegerung",
+    "url": "/posts/alarm_aktivierungsverzoegerung/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "AktivierungsverzögerungWird der Alarm über das PIN-Pad aktiviert, kann eineAktivierungsverzögerung eingestellt werden. Diese bewirkt, dass nachPIN Eingabe der Alarm nicht sofort, sondern erst nach einer bestimmtenZeit aktiviert wird. Dadurch können noch Aktionen durchgeführt werden,bevor der Alar..."
+  },
+  
+  {
+    "title": "Alarm_aktivierung",
+    "url": "/posts/alarm_aktivierung/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Alarm Aktivieren/DeaktivierenWurde der Alarm eingestellt, kann dieser über das Pin-Pad oder über dieangelegten Alarm Keys aktiviert/deaktiviert werden.AlarmzuständeDer aktuelle Zustand des Alarms wird auf dem Dashboard dargestellt:Alarm deaktiviert:Vollschutz aktiviert:Hüllschutz aktiviert:Zum Ak..."
+  },
+  
+  {
+    "title": "Alarm",
+    "url": "/posts/alarm/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Alarmtask: erstellen, aktivieren und deaktivieren1. AllgemeinesIQONTROL NEO ist mit einem Alarm-Feature ausgestattet, das dieSicherheit Ihres zu Hause erhöht. Es kann sehr einfach konfiguriert undgenutzt werden, und zwar zu Hause im eigenen Netzwerk oder auch imRemotemodus (von der Ferne). Die Au..."
+  },
+  
+  {
+    "title": "Account",
+    "url": "/posts/account/",
+    "categories": "MiniSafe2, Account",
+    "tags": "Account",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Erste SchritteAllgemeinesIQONTROL NEO ist die kostenlose App, mit der Sie die mediola AIOGATEWAYs V5 Plus sowie die V6-Serie in Betrieb nehmen können. Überdieskönnen Sie über IQONTROL NEO Geräte an die Gateways anlernen, beiBedarf weitere Cloud-Geräte an die App anbinden und in einer Oberflächest..."
+  },
+  
+  {
+    "title": "Access Point",
+    "url": "/posts/access_point/",
+    "categories": "MiniSafe2, Access Point",
+    "tags": "Access Point",
+    "date": "2021-06-29 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Den Homematic IP Access Point und Homematic IP Geräte integrierenDen Access Point anbinden1. Zunächst müssen Sie den Access Point über die Cloud verbinden. Imersten Schritt, müssen Sie dafür die Cloud-Anbindung lizensieren. Diesgeschieht über einen Freischaltcode für die mediola Cloud Services. D..."
+  }
+  
+]
+
