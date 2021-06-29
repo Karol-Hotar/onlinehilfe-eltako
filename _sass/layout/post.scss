@@ -155,9 +155,12 @@
   line-height: 1rem;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-
   &.nav-link:not(.active) {
     color: inherit;
+  }
+  &:hover {
+    color: #0262af !important;
+    border-left: 1px solid #0262af !important;
   }
 }
 
