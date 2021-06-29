@@ -4,7 +4,7 @@
   <id>/</id>
   <title>ONLINE HILFE</title>
   <subtitle>Eltako GmbH Online Hilfe</subtitle>
-  <updated>2021-06-29T06:43:07+00:00</updated>
+  <updated>2021-06-29T08:52:11+02:00</updated>
   <author>
     <name>Eltako GmbH</name>
     <uri>/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Tasks</title>
     <link href="/posts/tasks/" rel="alternate" type="text/html" title="Tasks" />
-    <published>2021-06-29T00:00:00+00:00</published>
+    <published>2021-06-29T00:00:00+02:00</published>
   
-    <updated>2021-06-29T00:00:00+00:00</updated>
+    <updated>2021-06-29T00:00:00+02:00</updated>
   
     <id>/posts/tasks/</id>
     <content src="/posts/tasks/" />
@@ -65,9 +65,9 @@ Plus-Symbol können Sie einen neuen Task anl...
   <entry>
     <title>Tasks Hysterese</title>
     <link href="/posts/tasks-hysterese/" rel="alternate" type="text/html" title="Tasks Hysterese" />
-    <published>2021-06-29T00:00:00+00:00</published>
+    <published>2021-06-29T00:00:00+02:00</published>
   
-    <updated>2021-06-29T00:00:00+00:00</updated>
+    <updated>2021-06-29T00:00:00+02:00</updated>
   
     <id>/posts/tasks-hysterese/</id>
     <content src="/posts/tasks-hysterese/" />
@@ -105,9 +105,9 @@ Die Lösung bietet hier der sogenannte Hysterese-Wert. Diese...
   <entry>
     <title>Szenen</title>
     <link href="/posts/szenen/" rel="alternate" type="text/html" title="Szenen" />
-    <published>2021-06-29T00:00:00+00:00</published>
+    <published>2021-06-29T00:00:00+02:00</published>
   
-    <updated>2021-06-29T00:00:00+00:00</updated>
+    <updated>2021-06-29T00:00:00+02:00</updated>
   
     <id>/posts/szenen/</id>
     <content src="/posts/szenen/" />
@@ -146,9 +146,9 @@ Einzelbefeh...
   <entry>
     <title>Startseite</title>
     <link href="/posts/startseite/" rel="alternate" type="text/html" title="Startseite" />
-    <published>2021-06-29T00:00:00+00:00</published>
+    <published>2021-06-29T00:00:00+02:00</published>
   
-    <updated>2021-06-29T00:00:00+00:00</updated>
+    <updated>2021-06-29T00:00:00+02:00</updated>
   
     <id>/posts/startseite/</id>
     <content src="/posts/startseite/" />
@@ -191,9 +191,9 @@ Die 10 als Kacheln angelegten Kategorien auf der Startseite sind:
   <entry>
     <title>Start</title>
     <link href="/posts/start/" rel="alternate" type="text/html" title="Start" />
-    <published>2021-06-29T00:00:00+00:00</published>
+    <published>2021-06-29T00:00:00+02:00</published>
   
-    <updated>2021-06-29T00:00:00+00:00</updated>
+    <updated>2021-06-29T00:00:00+02:00</updated>
   
     <id>/posts/start/</id>
     <content src="/posts/start/" />
