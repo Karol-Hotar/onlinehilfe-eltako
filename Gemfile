@@ -2,8 +2,8 @@
 
 source "https://rubygems.org"
 
-gemspec
 
+gemspec
 
 group :test do
   gem "html-proofer", "~> 3.18"
@@ -27,3 +27,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "webrick", "~> 1.7"
 
 gem "livereload", "~> 1.6"
+
