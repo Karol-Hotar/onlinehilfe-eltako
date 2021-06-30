@@ -1,7 +1,7 @@
 ---
 title: IQONTROL NEO Changelog
 author: Eltako Gmbh
-categories: [MiniSafe2 - Changelog]
+categories: [MiniSafe2, Changelog]
 tags: [Changelog]
 math: true
 mermaid: true

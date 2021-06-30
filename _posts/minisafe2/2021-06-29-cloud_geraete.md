@@ -1,7 +1,7 @@
 ---
 title: Cloud-Geräte anlegen
 author: Eltako Gmbh
-categories: [MiniSafe2 - Cloud]
+categories: [MiniSafe2, Cloud]
 tags: [Minisafe2 Cloud]
 math: true
 mermaid: true
