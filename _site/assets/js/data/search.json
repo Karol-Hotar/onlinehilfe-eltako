@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "",
+    "url": "/posts/2021-06-29-cloud_export/",
+    "categories": "",
+    "tags": "",
+    "date": "2021-06-30 06:17:36 +0200",
+    
+
+
+
+
+
+    "snippet": "Sprachsteuerung und CO: Der Cloud-ExportÜber die mediola Cloud-Services können Sie verschiedene externeCloud-Dienste wie Amazon Alexa, Google Home oderAutomatisierungsplattformen wie Conrad Connect und IFTTT mit einemGroßteil Ihrer in IQONTROL NEO integrierten Geräten verwenden.Um Ihre Geräte bei..."
+  },
+  
+  {
     "title": "Tasks",
     "url": "/posts/tasks/",
     "categories": "",
@@ -436,10 +451,10 @@
   },
   
   {
-    "title": "Cloud_geraete",
+    "title": "Cloud-Geräte anlegen",
     "url": "/posts/cloud_geraete/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2 - Cloud",
+    "tags": "Minisafe2 Cloud",
     "date": "2021-06-29 00:00:00 +0200",
     
 
@@ -451,25 +466,10 @@
   },
   
   {
-    "title": "Cloud_export",
-    "url": "/posts/cloud_export/",
-    "categories": "",
-    "tags": "",
-    "date": "2021-06-29 00:00:00 +0200",
-    
-
-
-
-
-
-    "snippet": "Sprachsteuerung und CO: Der Cloud-ExportÜber die mediola Cloud-Services können Sie verschiedene externeCloud-Dienste wie Amazon Alexa, Google Home oderAutomatisierungsplattformen wie Conrad Connect und IFTTT mit einemGroßteil Ihrer in IQONTROL NEO integrierten Geräten verwenden.Um Ihre Geräte bei..."
-  },
-  
-  {
-    "title": "Cloud Dienste",
+    "title": "Cloud-Dienste",
     "url": "/posts/cloud-dienste/",
-    "categories": "",
-    "tags": "",
+    "categories": "MiniSafe2 - Cloud",
+    "tags": "Minisafe2 Cloud",
     "date": "2021-06-29 00:00:00 +0200",
     
 

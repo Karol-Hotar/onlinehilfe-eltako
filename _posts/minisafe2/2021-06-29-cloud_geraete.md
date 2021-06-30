@@ -1,3 +1,15 @@
+---
+title: Cloud-Geräte anlegen
+author: Eltako Gmbh
+categories: [MiniSafe2 - Cloud]
+tags: [Minisafe2 Cloud]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
 ## Cloud-Geräte anlegen
 
 Neben den Geräten, die Sie direkt an das AIO GATEWAY anlernen, ist es

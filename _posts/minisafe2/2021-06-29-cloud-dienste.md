@@ -1,3 +1,14 @@
+---
+title: Cloud-Dienste
+author: Eltako Gmbh
+categories: [MiniSafe2 - Cloud]
+tags: [Minisafe2 Cloud]
+math: true
+mermaid: true
+image:
+src:
+---
+
 ## Cloud-Dienste
 
 Unter Cloud-Dienste können Sie Cloud-Services erwerben, das Ablaufdatum

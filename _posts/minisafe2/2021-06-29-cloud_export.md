@@ -1,3 +1,15 @@
+---
+title: Sprachsteuerung und CO: Der Cloud-Export
+author: Eltako Gmbh
+categories: [MiniSafe2 - Cloud]
+tags: [Minisafe2 Cloud]
+math: true
+mermaid: true
+image:
+src:
+---
+
+
 ## Sprachsteuerung und CO: Der Cloud-Export
 
 Über die mediola Cloud-Services können Sie verschiedene externe
