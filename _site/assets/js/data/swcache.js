@@ -14,7 +14,7 @@ const resource = [
   '/sw.js',
 
   /* --- HTML --- */
-  '/index.html',
+  '/homepage.html',
   '/404.html',
   
     '/categories/',

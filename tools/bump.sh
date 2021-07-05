@@ -146,7 +146,7 @@ release() {
 }
 
 help() {
-  echo "Bump new version to Chirpy project"
+  echo "Bump new version to eltako project"
   echo "Usage:"
   echo
   echo "   bash /path/to/bump.sh [options]"

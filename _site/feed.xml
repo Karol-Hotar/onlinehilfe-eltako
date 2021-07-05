@@ -4,7 +4,7 @@
   <id>/</id>
   <title>ONLINE HILFE</title>
   <subtitle>Eltako GmbH Online Hilfe</subtitle>
-  <updated>2021-06-30T06:20:11+02:00</updated>
+  <updated>2021-07-05T15:34:25+02:00</updated>
   <author>
     <name>Eltako GmbH</name>
     <uri>/</uri>
@@ -17,6 +17,52 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Access Point 2</title>
+    <link href="/posts/access_point_2/" rel="alternate" type="text/html" title="Access Point 2" />
+    <published>2021-07-07T00:00:00+02:00</published>
+  
+    <updated>2021-07-07T00:00:00+02:00</updated>
+  
+    <id>/posts/access_point_2/</id>
+    <content src="/posts/access_point_2/" />
+    <author>
+      <name>Eltako Gmbh</name>
+    </author>
+
+  
+    
+    <category term="MiniSafe2" />
+    
+    <category term="Access Point 2" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      New Headline
+
+Den Homematic IP Access Point und Homematic IP Geräte integrieren
+
+Den Access Point anbinden
+
+1. Zunächst müssen Sie den Access Point über die Cloud verbinden. Im
+ersten Schritt, müssen Sie dafür die Cloud-Anbindung lizensieren. Dies
+geschieht über einen Freischaltcode für die mediola Cloud Services. Dazu
+gehen Sie unter zunächst Account –&amp;gt; Cloud Dienste und geben Ihren
+Freisch...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -183,59 +229,6 @@ Die 10 als Kacheln angelegten Kategorien auf der Startseite sind:
 
   Räume: Anzeige der Geräte nach Räumen
   Geräte: A...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Start</title>
-    <link href="/posts/start/" rel="alternate" type="text/html" title="Start" />
-    <published>2021-06-29T00:00:00+02:00</published>
-  
-    <updated>2021-06-29T00:00:00+02:00</updated>
-  
-    <id>/posts/start/</id>
-    <content src="/posts/start/" />
-    <author>
-      <name>Eltako GmbH</name>
-    </author>
-
-  
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      BEDIENUNGSANLEITUNG IQONTROL NEO
-
-Inhaltsverzeichnis
-
-&amp;lt;!– index_start –&amp;gt;
-
-
-  Erste Schritte: Allgemeines &amp;amp; Account
-    
-      Das AIO GATEWAY integrieren
-      Die Bedienoberfläche: IQONTROL NEO
-Startseite
-      Was finde ich wo? - Das Hauptmenü
-      Ein Firmware-Update machen
-    
-  
-  Räume und Geräte anlegen
-    
-      Kameras integrieren
-      Cloud-Geräte anlegen
-      
-        ...
     </summary>
   
 

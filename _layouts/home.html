@@ -4,6 +4,7 @@ layout: page
 ---
 
 
+
 {% assign pinned = site.posts | where_exp: "item", "item.pin == true"  %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true"  %}
 {% assign posts = "" | split: "" %}
@@ -94,3 +95,328 @@ layout: page
 {% if paginator.total_pages > 0 %}
   {% include post-paginator.html %}
 {% endif %}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Title -->
+  <title>Eltako | Online Hilfe zum MiniSafe2</title>
+
+  <!-- Required Meta Tags Always Come First -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicon.png">
+
+  <!--  Meta tags -->
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+
+  <!-- Schema.org -->
+  <meta itemprop="name" content="">
+  <meta itemprop="description" content="">
+  <meta itemprop="image" content="">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="product">
+  <meta name="twitter:site" content="@htmlstream">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:creator" content="@htmlstream">
+  <meta name="twitter:image" content="">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+  <meta property="og:description" content="">
+  <meta property="og:site_name" content="Htmlstream">
+
+  <!-- Google Fonts -->
+  <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
+
+  <!-- CSS Implementing Plugins -->
+  <link rel="stylesheet" href="assets/vendor/font-awesome/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
+
+  <!-- CSS Template -->
+  <link rel="stylesheet" href="assets/css/theme.css">
+
+  <!-- CSS Demo -->
+  <link rel="stylesheet" href="assets/css/demo.css">
+</head>
+
+<body>
+<!-- Header -->
+<header class="duik-header">
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary position-absolute left-0 right-0 flex-nowrap z-index-3">
+    <div class="container">
+      <a class="navbar-brand" href="/"><img src="assets/img/logo.png" alt="Eltako" style="width: 80px;"></a>
+
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo" aria-controls="navbarTogglerDemo" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo">
+
+        <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+          <li class="nav-item ml-lg-6 mb-2 mb-lg-0">
+            <a class="nav-link px-0 active" href="/">Home</a>
+          </li>
+          <li class="nav-item dropdown ml-lg-6 mb-2 mb-lg-0">
+            <a class="nav-link px-0" href="#" id="navbarDropdown-2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Themen <i class="fas fa-angle-down small ml-1"></i>
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown-2">
+              <a class="dropdown-item" href="" target="_blank">MiniSafe2 <i class="fa fa-external-link-square-alt text-muted small opacity-30 ml-2"></i></a>
+              <a class="dropdown-item" href="" target="_blank">Eltako APP <i class="fa fa-external-link-square-alt text-muted small opacity-30 ml-1"></i></a>
+              <a class="dropdown-item" href="" target="_blank">GFA5 <i class="fa fa-external-link-square-alt text-muted small opacity-30 ml-1"></i></a>
+            </div>
+          </li>
+          <li class="nav-item ml-lg-6 mb-2 mb-lg-0">
+            <a class="nav-link px-0" href="" target="_blank"><i class="fab fas fa-arrow-circle-right mr-1"></i> Zur Website</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- End Navbar -->
+</header>
+<!-- End Header -->
+
+<!-- Promo Section -->
+<section class="duik-promo bg-primary text-center">
+  <div class="container duik-promo-container">
+    <div class="d-flex justify-content-center position-relative mh-35rem py-11">
+      <div class="align-self-center w-md-75">
+        <h1 class="text-white mb-5">Hallo, wie können wir Ihnen helfen?</h1>
+
+        <form class="input-group input-group-lg mb-3">
+          <input class="form-control border-0" type="search" placeholder="Suchen...">
+          <span class="input-group-append p-0">
+              <button class="btn text-muted" type="submit"><i class="fas fa-search"></i></button>
+            </span>
+        </form>
+
+        <p class="font-weight-light small text-left"><span class="mr-2">Beliebte Themen:</span> <a class="text-white mr-1" href="#">MiniSafe2</a>, <a class="text-white mr-1" href="#">Eltako App</a>, <a class="text-white mr-1" href="#">GFA5</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- SVG BG -->
+  <svg class="position-absolute bottom-0 left-0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 323" enable-background="new 0 0 1920 323" xml:space="preserve">
+      <polygon fill="#ffffff" style="fill-opacity: .05;" points="-0.5,322.5 -0.5,121.5 658.3,212.3 "></polygon>
+    <polygon fill="#ffffff" style="fill-opacity: .1;" points="-2,323 1920,323 1920,-1 "></polygon>
+    </svg>
+  <!-- End SVG BG -->
+</section>
+<!-- End Promo Section -->
+
+<!-- Icon Blocks -->
+<div class="container z-index-2 position-relative">
+  <section class="duik-icon-block duik-icon-block--pull2top rounded">
+    <div class="row no-gutters">
+      <div class="col-md border-bottom border-md-bottom-0">
+        <div class="duik-icon-block__item">
+          <div class="mb-5">
+            <img src="https://www.eltako.de/wp-content/uploads/2021/04/MiniSafe2.jpg" width="150" alt="MiniSafe2">
+          </div>
+          <h4 class="h3 mb-2">
+            <a class="link-dark font-weight-bold" href="dokumentation.html">MiniSafe2</a>
+          </h4>
+          <span> </span>
+        </div>
+      </div>
+      <div class="col-md border-md-left border-bottom border-md-bottom-0">
+        <div class="duik-icon-block__item">
+          <div class="mb-5">
+            <img style="border-radius: 15px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/19/c9/e719c9ac-50c0-52fb-1b93-f6b7c4fbdf97/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="150" alt="MiniSafe2">
+          </div>
+          <h4 class="h3 mb-2">
+            <a class="link-dark font-weight-bold" href="dokumentation.html">Eltako GFA5 </a>
+          </h4>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<!-- End Icon Blocks -->
+
+<main>
+  <!-- Section -->
+  <section class="py-11">
+    <div class="container">
+      <div class="w-md-75 w-lg-50 mx-auto text-center mb-5">
+        <h2 class="h3 text-center">Kürzlich hinzugefügte Dokumente</h2>
+
+      </div>
+
+      <!-- Theme -->
+      <a class="row border rounded align-items-center justify-content-between py-4 px-3 link-dark link-hover-dark bg-hover-light mx-sm-0 mb-2" href="article.html">
+        <div class="col-sm">
+          Erste Schritte - MiniSafe2
+        </div>
+        <div class="col-sm-3 small text-lh-1">
+          <div class="media align-items-center">
+            <div class="rounded mr-2">
+              <img class="img-fluid" src="https://www.eltako.de/wp-content/uploads/2021/04/MiniSafe2.jpg" alt="Image Description" width="33">
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-2 text-sm-right text-muted small">
+          20 minute vor
+        </div>
+      </a>
+      <!-- Theme end -->
+
+      <!-- Theme -->
+      <a class="row border rounded align-items-center justify-content-between py-4 px-3 link-dark link-hover-dark bg-hover-light mx-sm-0 mb-2" href="article.html">
+        <div class="col-sm">
+          Erste Schritte - GFA5 App
+        </div>
+        <div class="col-sm-3 small text-lh-1">
+          <div class="media align-items-center">
+            <div class="rounded mr-2">
+              <img class="img-fluid rounded" src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/19/c9/e719c9ac-50c0-52fb-1b93-f6b7c4fbdf97/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="Image Description" width="33">
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-2 text-sm-right text-muted small">
+          29 minute vor
+        </div>
+      </a>
+      <!-- Theme end -->
+
+      <div class="text-center mt-5">
+        <a class="btn btn-sm btn-outline-primary" href="#">Alle Artikel anzeigen<i class="fas fa-angle-right ml-2"></i></a>
+      </div>
+    </div>
+  </section>
+  <!-- End Section -->
+
+  <!-- Call To Action -->
+  <div class="container pb-10">
+    <div class="card bg-primary text-white shadow-sm">
+      <div class="card-body p-5">
+        <div class="d-md-flex align-items-center">
+          <div class="w-100 mb-3 mb-md-0 pr-md-5">
+            <h2 class="h4 font-weight-light text-white mb-0">Sie können nicht finden, wonach Sie suchen?</h2>
+            <p class="font-weight-light  mb-0">Lassen Sie sich jetzt von uns helfen!</p>
+          </div>
+
+          <div class="text-md-right w-100">
+            <a class="btn btn-light" href="#">Kontakt</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Call To Action -->
+
+
+</main>
+
+<!-- Footer -->
+<footer class="bg-dark font-weight-light text-white-55 pt-11 pb-5">
+  <div class="container">
+    <div class="row justify-content-md-between">
+      <div class="order-4 order-lg-1 col-md-12 col-lg-4 mb-4 mr-lg-auto">
+        <img class="mb-3" src="assets/img/logo.png" alt="Docs UI Kit" style="width: 80px;">
+      </div>
+
+      <div class="col-sm-4 col-lg-3 mb-4 order-lg-2">
+        <h4 class="h6 text-white mb-3">Produkte</h4>
+
+        <!-- Links -->
+        <ul class="list-unstyled">
+          <li class="mb-3"><a class="link-white-55" href="#">Professional Smart Home </a></li>
+          <li class="mb-3"><a class="link-white-55" href="#">Professional Standard</a></li>
+          <li class="mb-3"><a class="link-white-55" href="#">Zubehör</a></li>
+        </ul>
+        <!-- End Links -->
+      </div>
+
+      <div class="col-sm-4 col-lg-2 mb-4 order-lg-3">
+        <h4 class="h6 text-white mb-3">Services</h4>
+
+        <!-- Links -->
+        <ul class="list-unstyled">
+          <li class="mb-3"><a class="link-white-55" href="#">Referenzen</a></li>
+          <li class="mb-3"><a class="link-white-55" href="#">Katalog bestellen</a></li>
+          <li class="mb-3"><a class="link-white-55" href="#">Webinare</a></li>
+        </ul>
+        <!-- End Links -->
+      </div>
+
+      <div class="col-sm-4 col-lg-2 mb-4 order-lg-4">
+        <h4 class="h6 text-white mb-3">Unternehmen</h4>
+
+        <!-- Links -->
+        <ul class="list-unstyled">
+          <li class="mb-3"><a class="link-white-55" href="#">Kontakt </a></li>
+          <li class="mb-3"><a class="link-white-55" href="#">Social Media</a></li>
+        </ul>
+        <!-- End Links -->
+      </div>
+    </div>
+
+    <hr class="my-5 opacity-10">
+
+    <div class="row">
+      <div class="col-md-7">
+        <p class="small font-weight-light mb-0">&copy; 2021 <a class="text-white" href="">Eltako GmbH</a></p>
+      </div>
+
+      <div class="col-md-5 text-md-right">
+        <ul class="list-inline mb-0">
+          <li class="list-inline-item mr-1 mr-xl-2">
+            <a class="link-white-55" target="_blank" href="">
+              <i class="fab fa-youtube"></i>
+            </a>
+          </li>
+          <li class="list-inline-item mx-1 mx-xl-2">
+            <a class="link-white-55" target="_blank" href="">
+              <i class="fab fa-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item mx-1 mx-xl-2">
+            <a class="link-white-55" target="_blank" href="">
+              <i class="fab fa-instagram"></i>
+            </a>
+          </li>
+          <li class="list-inline-item mx-1 mx-xl-2">
+            <a class="link-white-55" target="_blank" href="">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- End Footer -->
+
+<!-- Go to Top -->
+<a class="js-go-to duik-go-to" href="javascript:;">
+  <span class="fa fa-arrow-up duik-go-to__inner"></span>
+</a>
+<!-- End Go to Top -->
+
+<!-- JS Global Compulsory -->
+<script src="assets/vendor/jquery/dist/jquery.min.js"></script>
+<script src="assets/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
+<script src="assets/vendor/popper.js/dist/umd/popper.min.js"></script>
+<script src="assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+<!-- JS Implementing Plugins -->
+<script src="assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+
+<!-- JS -->
+<script src="assets/js/main.js"></script>
+</body>
+</html>

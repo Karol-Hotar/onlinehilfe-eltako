@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "Access Point 2",
+    "url": "/posts/access_point_2/",
+    "categories": "MiniSafe2, Access Point 2",
+    "tags": "Access Point 2",
+    "date": "2021-07-07 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "New HeadlineDen Homematic IP Access Point und Homematic IP Geräte integrierenDen Access Point anbinden1. Zunächst müssen Sie den Access Point über die Cloud verbinden. Imersten Schritt, müssen Sie dafür die Cloud-Anbindung lizensieren. Diesgeschieht über einen Freischaltcode für die mediola Cloud..."
+  },
+  
+  {
     "title": "Tasks",
     "url": "/posts/tasks/",
     "categories": "",
